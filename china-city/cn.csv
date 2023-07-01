@@ -1,0 +1,2027 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Shanghai,31.1667,121.4667,China,CN,Shanghai,admin,22120000,22120000
+Guangzhou,23.1288,113.259,China,CN,Guangdong,admin,20902000,14498400
+Beijing,39.905,116.3914,China,CN,Beijing,primary,19433000,19433000
+Shenzhen,22.535,114.054,China,CN,Guangdong,must,15929000,12528300
+Nanyang,32.9987,112.5292,China,CN,Henan,,12010000,12010000
+Chengdu,30.6636,104.0667,China,CN,Sichuan,admin,11309000,11309000
+Linyi,35.0606,118.3425,China,CN,Shandong,,10820000,10820000
+Tianjin,39.1467,117.2056,China,CN,Tianjin,admin,10800000,10800000
+Shijiazhuang,38.0422,114.5086,China,CN,Hebei,admin,10784600,10784600
+Baoding,38.8671,115.4845,China,CN,Hebei,,10700000,10700000
+Zhoukou,33.625,114.6418,China,CN,Henan,minor,9901000,9901000
+Weifang,36.7167,119.1,China,CN,Shandong,,9373000,9373000
+Wuhan,30.5872,114.2881,China,CN,Hubei,admin,8962000,8962000
+Heze,35.2333,115.4333,China,CN,Shandong,minor,8750000,8750000
+Ganzhou,25.8292,114.9336,China,CN,Jiangxi,minor,8677600,8677600
+Tongshan,34.261,117.1859,China,CN,Jiangsu,minor,8669000,8669000
+Handan,36.6116,114.4894,China,CN,Hebei,,8499000,8499000
+Fuyang,32.8986,115.8045,China,CN,Anhui,,8360000,8360000
+Jining,35.4,116.5667,China,CN,Shandong,,8023000,8023000
+Dongguan,23.0475,113.7493,China,CN,Guangdong,minor,7981000,7981000
+Chongqing,29.55,106.5069,China,CN,Chongqing,admin,7739000,7739000
+Changchun,43.9,125.2,China,CN,Jilin,admin,7674439,7674439
+Zhumadian,32.9773,114.0253,China,CN,Henan,,7640000,7640000
+Ningbo,29.875,121.5492,China,CN,Zhejiang,minor,7639000,7639000
+Nanjing,32.05,118.7667,China,CN,Jiangsu,admin,7496000,7260000
+Hefei,31.8639,117.2808,China,CN,Anhui,admin,7457027,7457027
+Nantong,31.9829,120.8873,China,CN,Jiangsu,minor,7282835,7282835
+Yancheng,33.3936,120.1339,China,CN,Jiangsu,minor,7260240,7260240
+Foshan,23.0292,113.1056,China,CN,Guangdong,minor,7194311,7194311
+Nanning,22.8192,108.315,China,CN,Guangxi,admin,7153300,7153300
+Hengyang,26.8968,112.5857,China,CN,Hunan,,7148344,7148344
+Xi?€?an,34.2667,108.9,China,CN,Shaanxi,admin,7135000,7135000
+Shenyang,41.8039,123.4258,China,CN,Liaoning,admin,7105000,7105000
+Tangshan,39.6292,118.1742,China,CN,Hebei,,7100000,7100000
+Shaoyang,27.2418,111.4725,China,CN,Hunan,,7071000,7071000
+Changsha,28.1987,112.9709,China,CN,Hunan,admin,7044118,7044118
+Zhengzhou,34.7492,113.6605,China,CN,Henan,admin,7005000,7005000
+Zhanjiang,21.1967,110.4031,China,CN,Guangdong,minor,6900000,6900000
+Cangzhou,38.3037,116.8452,China,CN,Hebei,,6800000,6800000
+Maoming,21.6618,110.9178,China,CN,Guangdong,minor,6706000,6706000
+Huanggang,30.45,114.875,China,CN,Hubei,minor,6667000,6667000
+Xinyang,32.1264,114.0672,China,CN,Henan,,6634000,6634000
+Shangrao,28.4419,117.9633,China,CN,Jiangxi,minor,6579714,6579714
+Luoyang,34.6587,112.4245,China,CN,Henan,,6549941,6549941
+Bijie,27.3019,105.2863,China,CN,Guizhou,,6537498,6537498
+Yantai,37.3997,121.2664,China,CN,Shandong,,6516900,6516900
+Quanzhou,24.9139,118.5858,China,CN,Fujian,minor,6480000,6480000
+Hangzhou,30.25,120.1675,China,CN,Zhejiang,admin,6446000,6446000
+Kunming,25.0433,102.7061,China,CN,Yunnan,admin,6250000,6250000
+Nanchong,30.7991,106.0784,China,CN,Sichuan,minor,6183000,6183000
+Zunyi,27.705,106.9336,China,CN,Guizhou,,6127009,6127009
+Lu?€?an,31.7542,116.5078,China,CN,Anhui,minor,6090000,6090000
+Yichun,27.8041,114.383,China,CN,Jiangxi,minor,6048700,6048700
+Taizhou,28.6583,121.4221,China,CN,Zhejiang,minor,5968838,5968838
+Liaocheng,36.45,115.9833,China,CN,Shandong,minor,5955300,5955300
+Qujing,25.5102,103.8029,China,CN,Yunnan,,5855055,5855055
+Xiangyang,32.0654,112.1531,China,CN,Hubei,minor,5844000,5844000
+Qingdao,36.1167,120.4,China,CN,Shandong,minor,5775000,5775000
+Changde,29.0397,111.6839,China,CN,Hunan,minor,5717200,5717200
+Dazhou,31.2152,107.4947,China,CN,Sichuan,minor,5693000,5693000
+Suzhou,33.6333,116.9683,China,CN,Anhui,,5690000,5690000
+Jieyang,23.5533,116.3649,China,CN,Guangdong,minor,5634000,5634000
+Nangandao,35.2992,113.8851,China,CN,Henan,minor,5516000,5516000
+Tai?€?an,36.2001,117.0809,China,CN,Shandong,,5499000,5499000
+Yulin,22.6293,110.1507,China,CN,Guangxi,,5487368,5487368
+Dezhou,37.4513,116.3105,China,CN,Shandong,minor,5470000,5470000
+Suihua,46.6384,126.9808,China,CN,Heilongjiang,minor,5420000,5420000
+Qiqihar,47.3398,123.9512,China,CN,Heilongjiang,minor,5367003,5367003
+Jinhua,29.1046,119.6494,China,CN,Zhejiang,minor,5361572,5361572
+Shantou,23.3735,116.6941,China,CN,Guangdong,minor,5319028,5319028
+Weinan,34.4996,109.4684,China,CN,Shaanxi,minor,5300000,5300000
+Suqian,33.9331,118.2831,China,CN,Jiangsu,,5290000,5290000
+Suzhou,31.304,120.6164,China,CN,Jiangsu,minor,5250000,5250000
+Fuzhou,26.0769,119.2917,China,CN,Fujian,admin,5245000,5245000
+Zhaotong,27.3328,103.7144,China,CN,Yunnan,,5213521,5213521
+Pudong,31.2231,121.5397,China,CN,Shanghai,minor,5187200,5187200
+Yongzhou,26.4515,111.5953,China,CN,Hunan,,5180235,5180235
+Zhangzhou,24.5093,117.6612,China,CN,Fujian,minor,5140000,5140000
+Bozhou,33.8626,115.7742,China,CN,Anhui,,5100000,5100000
+Nanchang,28.6842,115.8872,China,CN,Jiangxi,admin,5042565,5042565
+Xianyang,34.35,108.7167,China,CN,Shaanxi,minor,5040000,5040000
+Taizhou,32.4831,119.9,China,CN,Jiangsu,minor,5031000,5031000
+Ji?€?an,27.1172,114.9793,China,CN,Jiangxi,minor,4956600,4956600
+Mianyang,31.4669,104.7385,China,CN,Sichuan,minor,4945000,4945000
+Shaoxing,30,120.5833,China,CN,Zhejiang,minor,4912239,4912239
+Yuncheng,35.0304,110.998,China,CN,Shanxi,,4860000,4860000
+Pingdingshan,33.735,113.2999,China,CN,Henan,,4838000,4838000
+Huai?€?an,33.5,119.1331,China,CN,Jiangsu,,4799889,4799889
+Xinpu,34.5906,119.1801,China,CN,Jiangsu,minor,4790000,4790000
+Guilin,25.2667,110.2833,China,CN,Guangxi,minor,4747963,4747963
+Huaihua,27.5494,109.9592,China,CN,Hunan,,4741948,4741948
+Jiujiang,29.7048,116.0021,China,CN,Jiangxi,minor,4728778,4728778
+Anqing,30.5,117.0333,China,CN,Anhui,minor,4723000,4723000
+Huanglongsi,34.7936,114.3403,China,CN,Henan,,4676159,4676159
+Xiaoganzhan,30.9273,113.911,China,CN,Hubei,,4665000,4665000
+Changzhou,31.8122,119.9692,China,CN,Jiangsu,minor,4592431,4592431
+Chenzhou,25.7989,113.0267,China,CN,Hunan,minor,4581778,4581778
+Wuxi,31.5667,120.2833,China,CN,Jiangsu,minor,4580000,4580000
+Zibo,36.7831,118.0497,China,CN,Shandong,,4530597,4530597
+Jiaxing,30.7522,120.75,China,CN,Zhejiang,minor,4501657,4501657
+Dalian,38.9131,121.61,China,CN,Liaoning,,4480000,4480000
+Yangzhou,32.3912,119.4363,China,CN,Jiangsu,,4459000,4459000
+Harbin,45.75,126.6333,China,CN,Heilongjiang,admin,4458000,4458000
+Yibin,28.7596,104.64,China,CN,Sichuan,minor,4456000,4456000
+Jiangmen,22.5833,113.0833,China,CN,Guangdong,minor,4448871,4448871
+Meizhou,24.2998,116.1191,China,CN,Guangdong,minor,4378800,4378800
+Chifeng,42.2663,118.9223,China,CN,Inner Mongolia,minor,4376600,4376600
+Guiyang,26.5794,106.7078,China,CN,Guizhou,admin,4365000,4365000
+Langfang,39.5196,116.7006,China,CN,Hebei,,4358839,4358839
+Zhangjiakou,40.8108,114.8811,China,CN,Hebei,,4345491,4345491
+Linfen,36.0812,111.5087,China,CN,Shanxi,,4316610,4316610
+Wenzhou,27.9991,120.6561,China,CN,Zhejiang,,4310000,4310000
+Luzhou,28.8918,105.4409,China,CN,Sichuan,minor,4291000,4291000
+Jiangguanchi,34.0244,113.8201,China,CN,Henan,minor,4289000,4289000
+Neijiang,29.5872,105.0635,China,CN,Sichuan,minor,4238000,4238000
+Yanjiang,30.1256,104.6397,China,CN,Sichuan,minor,4217000,4217000
+Yiyang,28.5833,112.3333,China,CN,Hunan,,4174000,4174000
+Zhaoqing,23.047,112.465,China,CN,Guangdong,minor,4151700,4151700
+Hengshui,37.7348,115.686,China,CN,Hebei,,4150000,4150000
+Guigang,23.0961,109.6092,China,CN,Guangxi,,4118808,4118808
+Xiaoxita,30.7083,111.2803,China,CN,Hubei,minor,4115000,4115000
+Xiamen,24.4797,118.0819,China,CN,Fujian,minor,4110000,4110000
+Chuzhou,32.3062,118.3115,China,CN,Anhui,,4110000,4110000
+Fuzhou,27.9814,116.3577,China,CN,Jiangxi,,4047200,4047200
+Huizhou,23.1115,114.4152,China,CN,Guangdong,minor,3875000,3875000
+Qingyuan,23.6842,113.0507,China,CN,Guangdong,minor,3874000,3874000
+Zhuzhou,27.8407,113.1469,China,CN,Hunan,minor,3855609,3855609
+Wuhu,31.334,118.3622,China,CN,Anhui,minor,3842100,3842100
+Hechi,23.0965,109.6091,China,CN,Guangxi,,3830000,2720379
+Loudi,27.7378,111.9974,China,CN,Hunan,,3785627,3785627
+Binzhou,37.3806,118.0125,China,CN,Shandong,,3779200,3779200
+Liuzhou,24.3181,109.4069,China,CN,Guangxi,minor,3758704,3758704
+Baojishi,34.3609,107.1751,China,CN,Shaanxi,,3738700,3738700
+Guang?€?an,30.4673,106.6336,China,CN,Sichuan,minor,3723000,3723000
+Hanzhong,33.0794,107.026,China,CN,Shaanxi,,3700000,3700000
+Zaozhuang,34.8667,117.55,China,CN,Shandong,,3650000,3650000
+Anshan,41.1066,122.9895,China,CN,Liaoning,,3645884,3645884
+Deyang,31.1289,104.395,China,CN,Sichuan,minor,3636000,3636000
+Lanzhou,36.0617,103.8318,China,CN,Gansu,admin,3616163,3616163
+Chengde,40.9739,117.9322,China,CN,Hebei,,3610000,3610000
+Puyang,35.7639,115.03,China,CN,Henan,minor,3580000,3580000
+Suining,30.5098,105.5737,China,CN,Sichuan,minor,3556000,3556000
+Baicheng,23.901,106.6194,China,CN,Guangxi,minor,3466758,3466758
+Qincheng,34.5809,105.7311,China,CN,Gansu,minor,3400000,3400000
+Taiyuan,37.8733,112.5425,China,CN,Shanxi,admin,3398000,3398000
+Jinan,36.6667,116.9833,China,CN,Shandong,admin,3250000,3250000
+Changzhi,36.1953,113.097,China,CN,Shanxi,minor,3230000,3230000
+Shiyan,32.6351,110.7755,China,CN,Hubei,minor,3228000,3228000
+Bazhou,31.8576,106.7559,China,CN,Sichuan,minor,3134000,3134000
+Zhongshan,22.5333,113.35,China,CN,Guangdong,minor,3121275,3121275
+Zhenjiang,32.2109,119.4551,China,CN,Jiangsu,minor,3113384,3113384
+??r??mqi,43.825,87.6,China,CN,Xinjiang,admin,3112559,3112559
+Tongliao,43.6172,122.264,China,CN,Inner Mongolia,minor,3094600,3094600
+Heyuan,23.7503,114.6923,China,CN,Guangdong,minor,3093900,3093900
+Qinzhou,21.95,108.6167,China,CN,Guangxi,minor,3079721,3079721
+Xinzhou,38.4178,112.7233,China,CN,Shanxi,minor,3067501,3067501
+Shaoguan,24.8011,113.5927,China,CN,Guangdong,minor,2997600,2997600
+Shanwei,22.7664,115.3331,China,CN,Guangdong,minor,2990000,2990000
+Dingxi,35.5806,104.6263,China,CN,Gansu,minor,2930000,2930000
+Ningde,26.6667,119.5167,China,CN,Fujian,minor,2910000,2910000
+Putian,25.4394,119.0103,China,CN,Fujian,minor,2900000,2900000
+Huzhou,30.8695,120.0958,China,CN,Zhejiang,minor,2893542,2893542
+Wuzhou,23.4833,111.3167,China,CN,Guangxi,minor,2882200,2882200
+Mudanjiang,44.5861,129.5997,China,CN,Heilongjiang,minor,2790000,2790000
+Huludao,40.7094,120.8378,China,CN,Liaoning,minor,2787000,2787000
+Rizhao,35.4164,119.4331,China,CN,Shandong,minor,2720000,2720000
+Nanping,26.6448,118.1728,China,CN,Fujian,minor,2690000,2690000
+Longyan,25.0881,117.0244,China,CN,Fujian,minor,2640000,2640000
+Hohhot,40.8151,111.6629,China,CN,Inner Mongolia,admin,2635000,2635000
+Chaozhou,23.67,116.63,China,CN,Guangdong,minor,2620000,2620000
+Weihai,37.5,122.1,China,CN,Shandong,minor,2596753,2596753
+Sanming,26.2658,117.6302,China,CN,Fujian,minor,2580000,2580000
+Luohe,33.583,114.0109,China,CN,Henan,minor,2500000,2500000
+Lianshan,40.7503,120.83,China,CN,Liaoning,minor,2426000,313247
+Huangshi,30.2018,115.0326,China,CN,Hubei,minor,2419000,2419000
+Jiamusi,46.8081,130.3653,China,CN,Heilongjiang,minor,2360000,2360000
+Yangjiang,21.8556,111.9627,China,CN,Guangdong,minor,2357000,2357000
+Yuxi,24.3495,102.5432,China,CN,Yunnan,minor,2303518,2303518
+Yingkou,40.6653,122.2297,China,CN,Liaoning,minor,2220000,2220000
+Ma?€?anshan,31.7135,118.3605,China,CN,Anhui,minor,2202899,2202899
+Pingliang,35.5412,106.6819,China,CN,Gansu,minor,2190000,2190000
+Gaoping,30.7804,106.13,China,CN,Sichuan,minor,2174000,2174000
+Xining,36.6239,101.7787,China,CN,Qinghai,admin,2154000,2154000
+Jincheng,35.4906,112.8483,China,CN,Shanxi,minor,2120000,2120000
+Lishui,28.45,119.9167,China,CN,Zhejiang,minor,2116957,2116957
+Qingyang,24.8141,118.5792,China,CN,Fujian,minor,2111000,2111000
+Haikou,20.02,110.32,China,CN,Hainan,admin,2046189,2046189
+Pingxiang,27.6333,113.85,China,CN,Jiangxi,minor,2001027,2001027
+Chongzuo,22.4167,107.3667,China,CN,Guangxi,minor,1994285,1994285
+Jixi,45.2937,130.965,China,CN,Heilongjiang,minor,1950000,1950000
+Wuwei,37.9278,102.6329,China,CN,Gansu,minor,1890000,1890000
+Xiping,40.08,113.3,China,CN,Shanxi,minor,1873000,1052678
+Baiyin,36.5448,104.1766,China,CN,Gansu,minor,1799000,1799000
+Shengli,37.45,118.4667,China,CN,Shandong,minor,1790000,1790000
+Heihe,50.2458,127.4886,China,CN,Heilongjiang,minor,1750000,1750000
+Shuozhou,39.3408,112.4292,China,CN,Shanxi,minor,1714857,1714857
+Yushan,31.3867,120.9766,China,CN,Jiangsu,minor,1651200,1651200
+Yinchuan,38.4795,106.2254,China,CN,Ningxia,admin,1616000,1616000
+Jingdezhen,29.2942,117.2036,China,CN,Jiangxi,minor,1587477,1587477
+Zhuhai,22.2769,113.5678,China,CN,Guangdong,minor,1562000,1562000
+Yucheng,29.9888,103.0007,China,CN,Sichuan,minor,1512000,1512000
+Xushan,30.1697,121.2665,China,CN,Zhejiang,minor,1502000,1502000
+Guiping,23.4,110.0833,China,CN,Guangxi,minor,1496904,1496904
+Zhangjiajie,29.1255,110.4844,China,CN,Hunan,minor,1486000,1486000
+Yunfu,22.9242,112.0353,China,CN,Guangdong,minor,1470000,1470000
+Huangshan,29.7132,118.3151,China,CN,Anhui,minor,1470000,1470000
+Huazhou,32.6832,112.079,China,CN,Henan,minor,1468061,1468061
+Chizhou,30.6583,117.4849,China,CN,Anhui,minor,1430000,1430000
+Yutan,28.3147,112.554,China,CN,Hunan,minor,1368117,1368117
+Fuqing,25.7232,119.3735,China,CN,Fujian,minor,1316000,1316000
+Yangquan,37.8576,113.5762,China,CN,Shanxi,minor,1300000,1300000
+Haicheng,40.8523,122.7474,China,CN,Liaoning,minor,1293877,1293877
+Wuzhong,37.9874,106.1919,China,CN,Ningxia,minor,1284000,1284000
+Zhangye,38.9355,100.4553,China,CN,Gansu,minor,1270000,1270000
+Rucheng,32.3852,120.5634,China,CN,Jiangsu,minor,1267066,1267066
+Shaoyang,32.9387,119.8404,China,CN,Jiangsu,minor,1253548,1253548
+Yangshe,31.8775,120.5512,China,CN,Jiangsu,minor,1253100,1253100
+Yichun,47.7235,128.8893,China,CN,Heilongjiang,minor,1250000,1250000
+Yiwu,29.3081,120.0698,China,CN,Zhejiang,minor,1234015,1234015
+Beidao,34.6,105.92,China,CN,Gansu,minor,1225000,74767
+Xinyu,27.795,114.9242,China,CN,Jiangxi,minor,1186700,1186700
+Guankou,28.1417,113.625,China,CN,Hunan,minor,1168056,1168056
+Lianyuan,27.6961,111.6659,China,CN,Hunan,minor,1162928,1162928
+Rongcheng,29.8239,112.9019,China,CN,Hubei,minor,1162770,1162770
+Kaiyuan,36.0656,113.8153,China,CN,Henan,minor,1160000,1160000
+Zhuji,29.7169,120.2314,China,CN,Zhejiang,minor,1157938,1157938
+Leiyang,26.4179,112.8457,China,CN,Hunan,minor,1151554,1151554
+Dadukou,26.5849,101.7149,China,CN,Sichuan,minor,1144000,1144000
+Yingchuan,34.1511,113.4733,China,CN,Henan,minor,1131896,1131896
+Zhoushan,30.0162,122.0988,China,CN,Zhejiang,minor,1121261,1121261
+Hegang,47.3139,130.2775,China,CN,Heilongjiang,minor,1100000,1100000
+Yicheng,31.3697,119.8239,China,CN,Jiangsu,minor,1082929,1082929
+Mizhou,36,119.4167,China,CN,Shandong,minor,1081960,1081960
+Taixing,32.1724,120.0142,China,CN,Jiangsu,minor,1073921,1073921
+Xishan,27.6609,113.4946,China,CN,Hunan,minor,1060000,1060000
+Zhongwei,37.5139,105.1884,China,CN,Ningxia,minor,1046000,1046000
+E?€?zhou,30.3972,114.8842,China,CN,Hubei,minor,1031000,1031000
+Xingcheng,24.1681,115.6669,China,CN,Guangdong,minor,993000,993000
+Dongtai,32.8534,120.3037,China,CN,Jiangsu,minor,990306,990306
+Yingcheng,24.1876,113.4042,China,CN,Guangdong,minor,986400,986400
+Zhaodong,46.0635,125.9773,China,CN,Heilongjiang,minor,980000,980000
+Xibeijie,39.737,98.5049,China,CN,Gansu,minor,977600,977600
+Huilong,31.8131,121.6574,China,CN,Jiangsu,minor,972525,972525
+Luocheng,22.7645,111.5745,China,CN,Guangdong,minor,959006,959006
+Shima,24.4475,117.8118,China,CN,Fujian,minor,956400,956400
+Meishan,34.1736,112.839,China,CN,Henan,minor,936000,936000
+Nada,19.5,109.5833,China,CN,Hainan,minor,932356,932356
+Taihe,30.8706,105.3784,China,CN,Sichuan,minor,924531,924531
+Lhasa,29.65,91.1,China,CN,Tibet,admin,902500,902500
+Dengtalu,36.08,114.35,China,CN,Henan,minor,887000,781129
+Kaifeng Chengguanzhen,34.85,114.35,China,CN,Henan,minor,872000,872000
+Hai?€?an,32.532,120.4604,China,CN,Jiangsu,minor,866337,866337
+Weichanglu,37.1792,119.9333,China,CN,Shandong,minor,859424,859424
+Leping,28.9632,117.1203,China,CN,Jiangxi,minor,852800,852800
+Hailun,47.4585,126.9632,China,CN,Heilongjiang,minor,850000,850000
+Tongchuan,34.9057,108.9422,China,CN,Shaanxi,minor,835600,835600
+Rongjiawan,29.3801,113.1,China,CN,Hunan,minor,826000,826000
+Wutong,30.6326,120.5474,China,CN,Zhejiang,minor,815848,815848
+Gaoyou,32.7847,119.4432,China,CN,Jiangsu,minor,811800,811800
+Yiyang,26.4103,112.3913,China,CN,Hunan,minor,810447,810447
+Puxi,35.2125,114.735,China,CN,Henan,minor,809535,809535
+Zijinglu,34.7513,112.9854,China,CN,Henan,minor,807857,807857
+Xiashi,30.5333,120.6833,China,CN,Zhejiang,minor,806966,806966
+Dongyang,29.2785,120.2282,China,CN,Zhejiang,minor,804398,804398
+Qingping,34.538,113.3796,China,CN,Henan,minor,797200,797200
+Fuyang,30.0533,119.9519,China,CN,Zhejiang,minor,771000,771000
+Zhongba,31.7761,104.7406,China,CN,Sichuan,minor,762140,762140
+Qingnian,36.8494,115.7061,China,CN,Shandong,minor,760781,760781
+Xinhualu,34.3962,113.7249,China,CN,Henan,minor,758079,758079
+Licheng,31.4174,119.4786,China,CN,Jiangsu,minor,749522,749522
+Chengguan,35.4599,113.7975,China,CN,Henan,minor,740435,740435
+Zunhua,40.1881,117.9593,China,CN,Hebei,minor,737011,737011
+Shuangqiao,35.0833,112.5833,China,CN,Henan,minor,733000,733000
+Langzhong,31.5833,105.972,China,CN,Sichuan,minor,728935,728935
+Lingbao Chengguanzhen,34.5221,110.8786,China,CN,Henan,minor,721049,721049
+Anlu,31.2575,113.6783,China,CN,Hubei,minor,720000,720000
+Wusong,30.9333,117.7667,China,CN,Anhui,minor,720000,720000
+Xichang,27.8983,102.2706,China,CN,Sichuan,minor,712434,712434
+Chengxiang,31.4515,121.1043,China,CN,Jiangsu,minor,709500,709500
+Dashiqiao,40.6328,122.5021,China,CN,Liaoning,minor,704891,704891
+Changsha,22.3762,112.6877,China,CN,Guangdong,minor,699242,699242
+Shishi,24.7355,118.6434,China,CN,Fujian,minor,693000,693000
+Miluo Chengguanzhen,28.8049,113.0745,China,CN,Hunan,minor,692080,692080
+Gaizhou,40.4019,122.3499,China,CN,Liaoning,minor,691595,691595
+Leling,37.7333,117.2167,China,CN,Shandong,minor,689867,689867
+Jianshe,34.2189,113.7693,China,CN,Henan,minor,687130,687130
+Jingcheng,32.0058,120.2547,China,CN,Jiangsu,minor,684360,684360
+Xigaz??,29.2649,88.8799,China,CN,Tibet,minor,679771,679771
+Shanhu,29.5908,120.8176,China,CN,Zhejiang,minor,679762,679762
+Yatou,37.1653,122.4867,China,CN,Shandong,minor,670251,670251
+Songyang,34.4161,113.0424,China,CN,Henan,minor,668592,668592
+Qionghu,28.8417,112.3595,China,CN,Hunan,minor,667104,667104
+Yanshi Chengguanzhen,34.723,112.7796,China,CN,Henan,minor,666696,666696
+Puyang Chengguanzhen,35.7004,114.98,China,CN,Henan,minor,666322,666322
+Wenchang,31.054,116.9507,China,CN,Anhui,minor,664455,664455
+Xiping,25.6005,103.8166,China,CN,Yunnan,minor,652604,652604
+Guixi,28.2861,117.2083,China,CN,Jiangxi,minor,647240,647240
+Wuxue,29.8518,115.5539,China,CN,Hubei,minor,644247,644247
+Xinshi,31.0236,113.1079,China,CN,Hubei,minor,636776,636776
+Jin?€?e,29.3395,105.2868,China,CN,Sichuan,minor,633210,633210
+Xinxing,39.8734,124.1453,China,CN,Liaoning,minor,627475,627475
+Suohe,34.7879,113.392,China,CN,Henan,minor,626700,626700
+Zhuangyuan,37.3,120.8333,China,CN,Shandong,minor,626683,626683
+Turpan,42.95,89.1822,China,CN,Xinjiang,minor,622903,622903
+Meihekou,42.5279,125.678,China,CN,Jilin,minor,618251,618251
+Zhugang,28.1277,121.2288,China,CN,Zhejiang,minor,616346,616346
+Tianchang,32.6853,119.0041,China,CN,Anhui,minor,602840,602840
+Qamdo,31.1375,97.1777,China,CN,Tibet,minor,598862,598862
+Luocheng,30.9793,104.28,China,CN,Sichuan,minor,591115,591115
+Shangzhi,45.2116,127.962,China,CN,Heilongjiang,minor,585386,585386
+Kuiju,36.8528,119.3904,China,CN,Shandong,minor,581470,581470
+Fu?€?an,27.1,119.6333,China,CN,Fujian,minor,577000,577000
+Luofeng,37.359,120.396,China,CN,Shandong,minor,570898,570898
+Zhenzhou,32.2739,119.1619,China,CN,Jiangsu,minor,564021,564021
+Luanzhou,39.7396,118.6978,China,CN,Hebei,minor,554315,554315
+Korla,41.7646,86.1527,China,CN,Xinjiang,minor,549324,549324
+Wancheng,18.8,110.4,China,CN,Hainan,minor,545597,545597
+Fuding,27.2,120.2,China,CN,Fujian,minor,542000,542000
+Chang?€?an,29.4761,113.448,China,CN,Hunan,minor,537500,537500
+Wencheng,19.6167,110.75,China,CN,Hainan,minor,537426,537426
+Aksu,41.1664,80.25,China,CN,Xinjiang,minor,535657,535657
+Ailan Mubage,43.9167,81.3167,China,CN,Xinjiang,minor,526745,526745
+Anda,46.4078,125.3252,China,CN,Heilongjiang,minor,520000,520000
+Yicheng,31.7117,112.2551,China,CN,Hubei,minor,512530,512530
+Kashgar,39.45,75.9833,China,CN,Xinjiang,minor,506640,506640
+Meicheng,30.6412,116.5689,China,CN,Anhui,minor,500292,500292
+Chengjiao,35.4043,114.0593,China,CN,Henan,minor,495744,495744
+Encheng,22.1879,112.3131,China,CN,Guangdong,minor,492814,492814
+Taozhou,30.8956,119.411,China,CN,Anhui,minor,487243,487243
+Dunhua,43.3667,128.2333,China,CN,Jilin,minor,483811,483811
+Jiaji,19.2431,110.4642,China,CN,Hainan,minor,483217,483217
+Kaihua,23.3715,104.2437,China,CN,Yunnan,minor,481505,481505
+Jiannan,31.3446,104.1994,China,CN,Sichuan,minor,477868,477868
+Wuhai,39.6708,106.8114,China,CN,Inner Mongolia,minor,477000,477000
+Jinchang,38.5168,102.1866,China,CN,Gansu,minor,464200,464200
+Xicheng,23.3629,103.1545,China,CN,Yunnan,minor,459781,459781
+Jian?€?ou,27.0387,118.3215,China,CN,Fujian,minor,456000,456000
+Minzhu,43.7192,127.337,China,CN,Jilin,minor,453265,453265
+Tanbei,35.0907,112.9317,China,CN,Henan,minor,447701,447701
+Pingquan,41.0042,118.6848,China,CN,Hebei,minor,446939,446939
+Ning?€?an,44.3429,129.4621,China,CN,Heilongjiang,minor,440000,440000
+Guangming,45.3357,122.7765,China,CN,Jilin,minor,437559,437559
+Yan?€?an Beilu,44.0222,87.2961,China,CN,Xinjiang,minor,426253,426253
+Hailin,44.5735,129.3825,China,CN,Heilongjiang,minor,420000,420000
+Lecheng,25.1307,113.3472,China,CN,Guangdong,minor,419500,419500
+Wenlan,23.3689,103.3881,China,CN,Yunnan,minor,417156,417156
+Nagqu,31.4766,92.0569,China,CN,Tibet,minor,414554,414554
+Fangting,31.1282,104.1695,China,CN,Sichuan,minor,412758,412758
+Zhangjiakou Shi Xuanhua Qu,40.5944,115.0243,China,CN,Hebei,minor,409745,373422
+Basuo,19.1,108.65,China,CN,Hainan,minor,408309,408309
+Ghulja,43.9,81.35,China,CN,Xinjiang,minor,403489,403489
+Karamay,45.5928,84.8711,China,CN,Xinjiang,minor,391008,391008
+Tieli,46.9804,128.045,China,CN,Heilongjiang,minor,390000,390000
+Baicheng,45.6148,122.832,China,CN,Jilin,minor,386861,316970
+Lianzhou,24.7868,112.3735,China,CN,Guangdong,minor,384700,384700
+Shihezi,44.3,86.0333,China,CN,Xinjiang,minor,380130,380130
+Helixi,30.6267,118.9861,China,CN,Anhui,minor,376857,376857
+Huichang,34.9136,112.7852,China,CN,Henan,minor,367113,367113
+Zalantun,48.0033,122.7365,China,CN,Inner Mongolia,minor,366323,366323
+Sanya,18.2536,109.5019,China,CN,Hainan,minor,362689,144753
+Shuanghejiedao,30.3866,106.7756,China,CN,Sichuan,minor,360000,360000
+Yong?€?an,25.9733,117.3593,China,CN,Fujian,minor,357000,357000
+Licheng,24.4935,110.3902,China,CN,Guangxi,minor,352472,352472
+Yakeshi,49.2842,120.7283,China,CN,Inner Mongolia,minor,352173,352173
+Lianran,24.9211,102.4778,China,CN,Yunnan,minor,341341,341341
+Tangdong,25.9755,113.2302,China,CN,Hunan,minor,337495,337495
+Baishan,41.9377,126.4179,China,CN,Jilin,minor,330000,330000
+Bamiantong,44.9164,130.5212,China,CN,Heilongjiang,minor,330000,330000
+Yunzhong,39.8143,113.0946,China,CN,Shanxi,minor,326849,326849
+Hotan,37.1012,79.9327,China,CN,Xinjiang,minor,322300,322300
+Yakou,33.2937,113.5203,China,CN,Henan,minor,313828,313828
+Qianzhou,28.3185,109.7318,China,CN,Hunan,minor,301000,301000
+Kumul,42.827,93.515,China,CN,Xinjiang,minor,300848,137072
+Hong?€?an,47.21,123.61,China,CN,Heilongjiang,minor,289999,265344
+Shaowu,27.3417,117.4869,China,CN,Fujian,minor,278000,278000
+Linxia Chengguanzhen,35.6,103.2167,China,CN,Gansu,minor,274466,274466
+Dongta,38.0937,106.3321,China,CN,Ningxia,minor,261677,261677
+Jinshi,29.6334,111.8746,China,CN,Hunan,minor,251064,251064
+Beichengqu,40.4348,113.1565,China,CN,Inner Mongolia,minor,245608,245608
+Zhangping,25.2938,117.4148,China,CN,Fujian,minor,242000,242000
+Wuyishan,27.7562,118.0267,China,CN,Fujian,minor,238000,238000
+Jiayuguan,39.8112,98.2862,China,CN,Gansu,minor,231853,231853
+Hunchun,42.8679,130.3585,China,CN,Jilin,minor,225454,225454
+Ji?€?an Shi,41.1231,126.1815,China,CN,Jilin,minor,222938,222938
+Golmud,36.4028,94.9042,China,CN,Qinghai,minor,215214,215214
+Dongning,44.0608,131.1187,China,CN,Heilongjiang,minor,210000,210000
+Donghua,35.2175,106.6545,China,CN,Gansu,minor,189333,189333
+Luzhang,25.8519,98.8562,China,CN,Yunnan,minor,184835,184835
+Longjing,42.77,129.4197,China,CN,Jilin,minor,180307,180307
+Linjiang,41.8082,126.9137,China,CN,Jilin,minor,173903,173903
+Fenglu,24.6728,102.9149,China,CN,Yunnan,minor,169366,169366
+Kuytun,44.4196,84.9012,China,CN,Xinjiang,minor,166261,166261
+Fukang,44.1523,87.9793,China,CN,Xinjiang,minor,165006,165006
+Simao,22.7807,100.9782,China,CN,Yunnan,minor,162725,162725
+Tacheng,46.7468,82.979,China,CN,Xinjiang,minor,161037,161037
+Altay,47.8666,88.1166,China,CN,Xinjiang,minor,142000,139341
+Nong?€?an,44.4304,125.1701,China,CN,Jilin,minor,141482,141482
+Yunxian Chengguanzhen,32.8082,110.8136,China,CN,Hubei,minor,133558,133558
+Lucheng,30.05,101.9667,China,CN,Sichuan,minor,130142,130142
+Tengyue,25.0333,98.4666,China,CN,Yunnan,minor,126058,126058
+Lianhe,47.1364,129.2859,China,CN,Heilongjiang,minor,121367,87774
+Zhijiang,27.4409,109.678,China,CN,Hunan,minor,113907,113907
+Kuqa,41.7277,82.9364,China,CN,Xinjiang,minor,111499,68105
+Genhe,50.7833,121.5167,China,CN,Inner Mongolia,minor,110438,110438
+Dali,34.7953,109.9378,China,CN,Shaanxi,minor,109696,109696
+Longjiang,47.3404,123.18,China,CN,Heilongjiang,minor,106384,67846
+Chongshan,18.7787,109.5117,China,CN,Hainan,minor,104119,104119
+Mositai,45.5266,119.6506,China,CN,Inner Mongolia,minor,102214,102214
+Boli,45.7564,130.5759,China,CN,Heilongjiang,minor,95260,71374
+Rongwo,35.5165,102.0166,China,CN,Qinghai,minor,92601,92601
+Hezuo,34.9984,102.91,China,CN,Gansu,minor,90290,90290
+Wangqing,43.3248,129.7343,China,CN,Jilin,minor,88732,70918
+Koktokay,47.0004,89.4666,China,CN,Xinjiang,minor,80000,40000
+Linkou,45.2819,130.2519,China,CN,Heilongjiang,minor,77754,55099
+E?€?erguna,50.2411,120.172,China,CN,Inner Mongolia,minor,76667,76667
+Tailai,46.3904,123.41,China,CN,Heilongjiang,minor,75992,66623
+Lanxi,46.2664,126.276,China,CN,Heilongjiang,minor,72528,61494
+Baiquan,47.6018,126.0819,China,CN,Heilongjiang,minor,70472,34887
+Zhanggu,30.9504,101.9167,China,CN,Sichuan,minor,70000,35000
+Liuhe,42.2789,125.7173,China,CN,Jilin,minor,68938,66975
+Chengjiao Chengguanzhen,34.4362,104.0306,China,CN,Gansu,minor,67826,67826
+Qinggang,46.69,126.1,China,CN,Heilongjiang,minor,64182,57728
+Gannan,47.9204,123.51,China,CN,Heilongjiang,minor,59239,34470
+Ma?€?erkang,31.9046,102.2167,China,CN,Sichuan,minor,58437,58437
+Suileng,47.246,127.106,China,CN,Heilongjiang,minor,57789,57124
+Bayan Hot,38.839,105.6686,China,CN,Inner Mongolia,minor,56387,56387
+Changling,44.27,123.99,China,CN,Jilin,minor,55841,37566
+Qing?€?an,46.8719,127.5118,China,CN,Heilongjiang,minor,53206,53206
+Lindong,43.9837,119.1834,China,CN,Inner Mongolia,minor,50000,47080
+Nenjiang,49.1745,125.216,China,CN,Heilongjiang,minor,50000,50000
+Yong?€?an,31.0504,109.5167,China,CN,Chongqing,minor,49168,49168
+Tangdukou,27,111.2001,China,CN,Hunan,minor,45617,45617
+Oroqen Zizhiqi,50.5667,123.7167,China,CN,Inner Mongolia,minor,40128,40128
+Alashankou,45.1714,82.5731,China,CN,Xinjiang,minor,40000,40000
+Yi?€?an,47.8804,125.3,China,CN,Heilongjiang,minor,39924,39924
+Qarqan,38.1338,85.5333,China,CN,Xinjiang,minor,32494,32494
+Tongyangdao,41.7676,109.9711,China,CN,Inner Mongolia,minor,27476,27476
+Kuaidamao,41.68,125.75,China,CN,Jilin,minor,27227,27227
+Xinxing,47.1601,123.8,China,CN,Heilongjiang,minor,24317,24317
+Hoh Ereg,41.0955,111.4408,China,CN,Inner Mongolia,minor,23776,23776
+Gy??gu,33.0166,96.7333,China,CN,Qinghai,minor,23000,10000
+Qitai,41.5494,113.5339,China,CN,Inner Mongolia,minor,18831,18831
+Yuanquan,40.5004,95.8,China,CN,Gansu,minor,17886,17886
+Gyangz??,28.95,89.6333,China,CN,Tibet,minor,10000,10000
+Gar,32.2004,79.9833,China,CN,Tibet,minor,10000,500
+Heyin,36.0451,101.4242,China,CN,Qinghai,minor,7642,7642
+Jinzhong,26.3504,103.4167,China,CN,Yunnan,minor,5170,5170
+Kailu,43.5837,121.2,China,CN,Inner Mongolia,minor,2809,2809
+Linxi,43.5171,118.0333,China,CN,Inner Mongolia,minor,679,679
+Lianhu,34.2585,108.9242,China,CN,Shaanxi,minor,,
+Binhu,32.0301,118.7577,China,CN,Jiangsu,minor,,
+Wulaocun,32.0344,118.7958,China,CN,Jiangsu,minor,,
+Changning,31.2174,121.4211,China,CN,Shanghai,minor,,
+Yanping,26.6381,118.1682,China,CN,Fujian,minor,,
+Dayingmen,39.1073,117.2096,China,CN,Tianjin,minor,,
+Wuma,28.0173,120.6659,China,CN,Zhejiang,minor,,
+Liuxiang,37.8714,112.5605,China,CN,Shanxi,minor,,
+Chaowai,39.9181,116.4324,China,CN,Beijing,minor,,
+Hongkou,31.25,121.4892,China,CN,Shanghai,minor,,
+Changhongjie,39.1373,117.1475,China,CN,Tianjin,minor,,
+Huancuilou,37.5004,122.114,China,CN,Shandong,minor,,
+Zhangyelu,36.0575,103.8227,China,CN,Gansu,minor,,
+Weiyang,34.2906,108.9355,China,CN,Shaanxi,minor,,
+Yangpu,31.2619,121.519,China,CN,Shanghai,minor,,
+Dongtundu,28.1837,113.0321,China,CN,Hunan,minor,,
+Sanjiang,31.3481,118.3613,China,CN,Anhui,minor,,
+Meiyuan Xincun,32.0542,118.7928,China,CN,Jiangsu,minor,,
+Jinrongjie,39.9122,116.3562,China,CN,Beijing,minor,,
+Dongjie,26.0882,119.2945,China,CN,Fujian,minor,,
+Gulou,26.0865,119.298,China,CN,Fujian,minor,,
+Nanchansi,31.5624,120.3002,China,CN,Jiangsu,minor,,
+Xihu,36.0673,103.7765,China,CN,Gansu,minor,,
+Haidian,39.9906,116.2887,China,CN,Beijing,minor,,
+Gulou,40.37,116.8335,China,CN,Beijing,minor,,
+Xiaobailou,39.1177,117.2056,China,CN,Tianjin,minor,,
+Xuhui,31.1959,121.4471,China,CN,Shanghai,minor,,
+Pingjianglu,31.3147,120.6298,China,CN,Jiangsu,minor,,
+Xincheng,34.2632,108.9495,China,CN,Shaanxi,minor,,
+Chong?€?ansi,31.5799,120.2952,China,CN,Jiangsu,minor,,
+Chikan,21.2712,110.3591,China,CN,Guangdong,minor,,
+Luwan,31.2091,121.4634,China,CN,Shanghai,minor,,
+Rongjiang,25.6625,114.7503,China,CN,Jiangxi,minor,,
+Beidajie,31.5853,120.29,China,CN,Jiangsu,minor,,
+Fengxian,30.9187,121.4566,China,CN,Shanghai,minor,,
+Wanghailou,39.1595,117.2034,China,CN,Tianjin,minor,,
+Gongchen,39.728,116.1376,China,CN,Beijing,minor,,
+Beijie,39.2226,106.7658,China,CN,Ningxia,minor,,
+Xingguo,26.3261,115.3472,China,CN,Jiangxi,minor,,
+Acheng,45.5455,126.977,China,CN,Heilongjiang,minor,,
+Tiexi,47.3119,130.2803,China,CN,Heilongjiang,minor,,
+Xingfulu,43.7825,87.6368,China,CN,Xinjiang,minor,,
+Beijinglu,31.3227,118.3851,China,CN,Anhui,minor,,
+Dawangzhuang,39.127,117.2162,China,CN,Tianjin,minor,,
+Shuangta,31.3041,120.6297,China,CN,Jiangsu,minor,,
+Tianjiao,39.8255,109.9995,China,CN,Inner Mongolia,minor,,
+Nanjin,29.985,106.2653,China,CN,Chongqing,minor,,
+Jianshelu,34.7534,113.606,China,CN,Henan,minor,,
+Dayu,39.9375,116.0967,China,CN,Beijing,minor,,
+Xiling,30.7161,111.2839,China,CN,Hubei,minor,,
+Qianfeng,37.8494,112.5208,China,CN,Shanxi,minor,,
+Nanjie,35.7356,107.6353,China,CN,Gansu,minor,,
+Louqiao,28.0106,120.6322,China,CN,Zhejiang,minor,,
+Shilu,31.3117,120.5941,China,CN,Jiangsu,minor,,
+Shuangling,28.0248,120.6021,China,CN,Zhejiang,minor,,
+Sanyuan Chengguanzhen,34.6147,108.9283,China,CN,Shaanxi,minor,,
+Jinling,34.3693,107.15,China,CN,Shaanxi,minor,,
+Chenghua,23.4613,116.7701,China,CN,Guangdong,minor,,
+Shiqiao,22.9464,113.3577,China,CN,Guangdong,minor,,
+Chengbei,40.223,116.2458,China,CN,Beijing,minor,,
+Jianchang,27.5583,116.6398,China,CN,Jiangxi,minor,,
+Jingshan,39.9253,116.4041,China,CN,Beijing,minor,,
+Zhanqian,46.8001,130.3755,China,CN,Heilongjiang,minor,,
+Julun,37.9074,112.5577,China,CN,Shanxi,minor,,
+Qingyang,37.4958,121.2581,China,CN,Shandong,minor,,
+Zhifang,30.35,114.3167,China,CN,Hubei,minor,,
+Leicheng,20.9156,110.0837,China,CN,Guangdong,minor,,
+Zhongyuanlu,35.7685,115.0613,China,CN,Henan,minor,,
+Longzhouwan,29.3786,106.54,China,CN,Chongqing,minor,,
+Hongqi,47.318,130.2679,China,CN,Heilongjiang,minor,,
+Bukui,47.355,123.9517,China,CN,Heilongjiang,minor,,
+Xin?€?an,44.5803,129.6257,China,CN,Heilongjiang,minor,,
+Yangjiaping,29.5051,106.5013,China,CN,Chongqing,minor,,
+Dingping,30.3386,106.927,China,CN,Sichuan,minor,,
+Suishan,29.6083,103.486,China,CN,Sichuan,minor,,
+Xinshancun,29.486,106.4786,China,CN,Chongqing,minor,,
+Liucheng,30.7,103.8377,China,CN,Sichuan,minor,,
+Shuimogou,43.8286,87.6382,China,CN,Xinjiang,minor,,
+Nanhang,47.3147,123.948,China,CN,Heilongjiang,minor,,
+Xingfeng,39.7297,116.3366,China,CN,Beijing,minor,,
+Shouxihu,32.4209,119.4044,China,CN,Jiangsu,minor,,
+Dongcheng,28.6473,121.2711,China,CN,Zhejiang,minor,,
+Hunjiang,41.9346,126.4143,China,CN,Jilin,minor,,
+Xiaoshan,30.1675,120.2588,China,CN,Zhejiang,minor,,
+Enjiang,27.3218,115.4292,China,CN,Jiangxi,minor,,
+Shuangzhong,29.743,116.2243,China,CN,Jiangxi,minor,,
+Longhua,47.3385,123.9792,China,CN,Heilongjiang,minor,,
+Wujiashan,30.617,114.1317,China,CN,Hubei,minor,,
+Wenhe,32.3952,119.4269,China,CN,Jiangsu,minor,,
+Hehai,31.8292,119.9778,China,CN,Jiangsu,minor,,
+Damatou,28.6175,112.3369,China,CN,Hunan,minor,,
+Chengnan,23.2722,116.605,China,CN,Guangdong,minor,,
+Binhe,40.1335,117.1085,China,CN,Beijing,minor,,
+Hanjiang,25.4705,119.1035,China,CN,Fujian,minor,,
+Heping,46.0863,122.0771,China,CN,Inner Mongolia,minor,,
+Shaping,22.7702,112.9578,China,CN,Guangdong,minor,,
+Qinhong,32.0113,118.7966,China,CN,Jiangsu,minor,,
+Xuri,28.4351,117.9198,China,CN,Jiangxi,minor,,
+Gulou,36.4441,115.9642,China,CN,Shandong,minor,,
+Shanhaiguan,40.0025,119.7489,China,CN,Hebei,minor,,
+Liminlu,31.3188,118.3629,China,CN,Anhui,minor,,
+Lugu,39.8967,116.2204,China,CN,Beijing,minor,,
+Xindu,33.3399,120.1459,China,CN,Jiangsu,minor,,
+Ganhechen,33.5582,114.02,China,CN,Henan,minor,,
+Mingren,45.5932,122.8188,China,CN,Jilin,minor,,
+Hutang,31.7158,119.9446,China,CN,Jiangsu,minor,,
+Fengtai,39.8476,116.2723,China,CN,Beijing,minor,,
+Xinchenglu,31.3886,121.2631,China,CN,Shanghai,minor,,
+Helie,31.5214,120.2896,China,CN,Jiangsu,minor,,
+Lubei,28.5863,121.37,China,CN,Zhejiang,minor,,
+Wenxing,28.6667,112.8833,China,CN,Hunan,minor,,
+Yuanzhou,27.7985,114.3761,China,CN,Jiangxi,minor,,
+Anning Xilu,36.1035,103.7193,China,CN,Gansu,minor,,
+Heshan,28.5825,112.3503,China,CN,Hunan,minor,,
+Yanta,34.2064,108.9524,China,CN,Shaanxi,minor,,
+Xiangyang,37.5316,121.3939,China,CN,Shandong,minor,,
+Nankang,29.4465,116.0407,China,CN,Jiangxi,minor,,
+Xianshuigu,38.985,117.3828,China,CN,Tianjin,minor,,
+Beilun,29.9192,121.8378,China,CN,Zhejiang,minor,,
+Qindu,34.3419,108.7082,China,CN,Shaanxi,minor,,
+Fangsong,31.0329,121.1894,China,CN,Shanghai,minor,,
+Dongsheng,30.5738,103.9213,China,CN,Sichuan,minor,,
+Fulilu,36.1017,103.6157,China,CN,Gansu,minor,,
+Dongcheng,29.152,107.1034,China,CN,Chongqing,minor,,
+Huayang,31.9516,119.1628,China,CN,Jiangsu,minor,,
+Qujiang,30.8421,106.9678,China,CN,Sichuan,minor,,
+Huaihelu,34.7164,113.6414,China,CN,Henan,minor,,
+Beijinglu,43.8344,87.5765,China,CN,Xinjiang,minor,,
+Qiaonan,46.8036,130.358,China,CN,Heilongjiang,minor,,
+Chengzhong,29.1064,119.6486,China,CN,Zhejiang,minor,,
+Longshan,40.3202,116.6291,China,CN,Beijing,minor,,
+Fengshan,26.4856,119.5492,China,CN,Fujian,minor,,
+Chengzhen,40.4797,115.2678,China,CN,Hebei,minor,,
+Nanlong,31.3533,106.0631,China,CN,Sichuan,minor,,
+Jianguo,46.8177,130.3961,China,CN,Heilongjiang,minor,,
+Lanjiang,29.2151,119.4612,China,CN,Zhejiang,minor,,
+Dingcheng,29.0194,111.6798,China,CN,Hunan,minor,,
+Chang?€?an,34.1511,108.945,China,CN,Shaanxi,minor,,
+Zhaobaoshan,29.9695,121.6875,China,CN,Zhejiang,minor,,
+Beilin,34.2285,108.9157,China,CN,Shaanxi,minor,,
+Youyi,46.8048,130.3192,China,CN,Heilongjiang,minor,,
+Jinjiazhuang,31.7201,118.4895,China,CN,Anhui,minor,,
+Changning,24.9557,115.6424,China,CN,Jiangxi,minor,,
+Pingluo Chengguanzhen,38.9038,106.5413,China,CN,Ningxia,minor,,
+Mazhang,21.2757,110.3221,China,CN,Guangdong,minor,,
+Karakax,37.2722,79.7373,China,CN,Xinjiang,minor,,
+Mudan,35.2462,115.4334,China,CN,Shandong,minor,,
+Jiekou,23.5499,113.581,China,CN,Guangdong,minor,,
+Xiangyang,44.588,129.5798,China,CN,Heilongjiang,minor,,
+Xiyuzhuang,39.1663,117.1568,China,CN,Tianjin,minor,,
+Jinghai,38.9337,116.927,China,CN,Tianjin,minor,,
+Nanzheng Chengguanzhen,33.0045,106.9347,China,CN,Shaanxi,minor,,
+Yili,43.9,81.35,China,CN,Xinjiang,minor,,
+Min?€?an,29.4595,109.437,China,CN,Hunan,minor,,
+Zhongshanlu,29.3569,105.9043,China,CN,Chongqing,minor,,
+Xucheng,20.3292,110.1671,China,CN,Guangdong,minor,,
+Ningnan,31.985,118.7815,China,CN,Jiangsu,minor,,
+Longquan,30.5613,104.2689,China,CN,Sichuan,minor,,
+Jijiang,29.2899,106.25,China,CN,Chongqing,minor,,
+Zhongzhan,35.2414,113.1603,China,CN,Henan,minor,,
+Jiancheng,30.391,104.5491,China,CN,Sichuan,minor,,
+Weixian,36.3565,114.9337,China,CN,Hebei,minor,,
+Gutao,37.2025,112.1781,China,CN,Shanxi,minor,,
+Duji,33.9977,116.8284,China,CN,Anhui,minor,,
+Xiayang,31.1497,121.1159,China,CN,Shanghai,minor,,
+Baiguan,30.0325,120.86,China,CN,Zhejiang,minor,,
+Longxing,35.613,111.2192,China,CN,Shanxi,minor,,
+Haicheng,22.9753,115.3318,China,CN,Guangdong,minor,,
+Xindu,30.8224,104.1574,China,CN,Sichuan,minor,,
+Suixi,33.8907,116.7747,China,CN,Anhui,minor,,
+Ning?€?an,37.4975,105.6765,China,CN,Ningxia,minor,,
+Yanliang,34.6592,109.2292,China,CN,Shaanxi,minor,,
+Gucheng,28.8486,121.1161,China,CN,Zhejiang,minor,,
+Baicheng,33.3864,114.0158,China,CN,Henan,minor,,
+Nanwai,31.2047,107.5036,China,CN,Sichuan,minor,,
+Taiping,28.3688,121.3617,China,CN,Zhejiang,minor,,
+Weitang,30.8502,120.9114,China,CN,Zhejiang,minor,,
+Shunde,22.8009,113.2921,China,CN,Guangdong,minor,,
+Aoyang,28.239,114.9208,China,CN,Jiangxi,minor,,
+Zhuyang,30.7367,107.2012,China,CN,Sichuan,minor,,
+Qingyuan,28.1172,112.9985,China,CN,Hunan,minor,,
+Xinhu,37.4464,116.2973,China,CN,Shandong,minor,,
+Guitang,28.14,113.0425,China,CN,Hunan,minor,,
+Huohua,30.759,106.0594,China,CN,Sichuan,minor,,
+Zhongshan Donglu,34.3796,107.1464,China,CN,Shaanxi,minor,,
+Liyang,29.6518,111.752,China,CN,Hunan,minor,,
+Furong Beilu,28.2371,112.9808,China,CN,Hunan,minor,,
+Yulong,33.3832,120.1306,China,CN,Jiangsu,minor,,
+Nu?€?erbage,37.1134,79.9103,China,CN,Xinjiang,minor,,
+Daishan,30.2459,122.199,China,CN,Zhejiang,minor,,
+Wenlin,29.9981,104.1399,China,CN,Sichuan,minor,,
+Luyang,33.7356,112.9051,China,CN,Henan,minor,,
+Decheng,23.1426,111.7774,China,CN,Guangdong,minor,,
+Zhengdonglu,32.1928,119.4705,China,CN,Jiangsu,minor,,
+Suizhong,40.3292,120.3365,China,CN,Liaoning,minor,,
+Jiangyan,32.5061,120.1428,China,CN,Jiangsu,minor,,
+Langchi,31.0795,106.5651,China,CN,Sichuan,minor,,
+Shengli,37.9843,106.1966,China,CN,Ningxia,minor,,
+Jia Xian Chengguanzhen,33.9683,113.2081,China,CN,Henan,minor,,
+Songling,31.1933,120.7176,China,CN,Jiangsu,minor,,
+Fendou,45.2123,130.9025,China,CN,Heilongjiang,minor,,
+Ganting,34.1024,108.6141,China,CN,Shaanxi,minor,,
+Fenghua,29.6563,121.4064,China,CN,Zhejiang,minor,,
+Yujin,29.2091,103.9456,China,CN,Sichuan,minor,,
+Wuyuan,30.5154,120.9486,China,CN,Zhejiang,minor,,
+Yuecheng,28.1229,120.9607,China,CN,Zhejiang,minor,,
+Xiaodian,37.7364,112.5564,China,CN,Shanxi,minor,,
+Liulin,37.4533,110.9019,China,CN,Shanxi,minor,,
+Shuidong,21.5134,111.0018,China,CN,Guangdong,minor,,
+Jingning Chengguanzhen,35.5204,105.723,China,CN,Gansu,minor,,
+Huolu,38.0806,114.2961,China,CN,Hebei,minor,,
+Jibenggang,29.6583,91.1276,China,CN,Tibet,minor,,
+Longcheng,24.8983,102.7997,China,CN,Yunnan,minor,,
+Fendou,46.6414,124.8628,China,CN,Heilongjiang,minor,,
+Jiulong,30.5362,106.4371,China,CN,Sichuan,minor,,
+Wenhua,37.3911,121.5896,China,CN,Shandong,minor,,
+Dongcheng,28.8938,120.0402,China,CN,Zhejiang,minor,,
+Xianfeng,44.575,129.6026,China,CN,Heilongjiang,minor,,
+Yichuan Chengguanzhen,34.4197,112.4192,China,CN,Henan,minor,,
+Wujin,30.4113,103.813,China,CN,Sichuan,minor,,
+Xincheng,33.5419,114.5983,China,CN,Henan,minor,,
+Yangming,44.5963,129.6208,China,CN,Heilongjiang,minor,,
+Cuntan,29.6025,106.5705,China,CN,Chongqing,minor,,
+Chongyang,33.2592,114.242,China,CN,Henan,minor,,
+Labu,24.2599,109.3341,China,CN,Guangxi,minor,,
+Yunmeng Chengguanzhen,31.0625,113.7654,China,CN,Hubei,minor,,
+Xiwai,31.2168,107.4752,China,CN,Sichuan,minor,,
+Luoning Chengguanzhen,34.3878,111.6558,China,CN,Henan,minor,,
+Suicheng,33.8963,117.9331,China,CN,Jiangsu,minor,,
+Caidian,30.5833,114.0333,China,CN,Hubei,minor,,
+Ningyang,35.7701,116.8056,China,CN,Shandong,minor,,
+Chaoge,35.605,114.1886,China,CN,Henan,minor,,
+Wuquan,33.4441,113.5709,China,CN,Henan,minor,,
+Fengtai Chengguanzhen,32.7082,116.7296,China,CN,Anhui,minor,,
+Hongjunlu,45.3035,130.976,China,CN,Heilongjiang,minor,,
+Tianpeng,30.9866,103.9393,China,CN,Sichuan,minor,,
+Xinan,23.1545,112.8934,China,CN,Guangdong,minor,,
+Lishu,45.0898,130.6914,China,CN,Heilongjiang,minor,,
+Liangshan,30.6741,107.7938,China,CN,Chongqing,minor,,
+Guoyang Chengguanzhen,33.5055,116.2308,China,CN,Anhui,minor,,
+Yutian,39.8786,117.7392,China,CN,Hebei,minor,,
+Pucheng Chengguanzhen,34.9561,109.5841,China,CN,Shaanxi,minor,,
+Taihe,23.7354,112.9778,China,CN,Guangdong,minor,,
+Kaiping,39.678,118.2522,China,CN,Hebei,minor,,
+Yueyang,30.1023,105.3334,China,CN,Sichuan,minor,,
+Guanshan,37.8081,113.597,China,CN,Shanxi,minor,,
+Longquan,36.1174,113.1857,China,CN,Shanxi,minor,,
+Zhenping Chengguanzhen,33.0331,112.2332,China,CN,Henan,minor,,
+Dingcheng,32.1272,115.0394,China,CN,Henan,minor,,
+Jiaxiang,35.3961,116.348,China,CN,Shandong,minor,,
+Niushan,34.5235,118.765,China,CN,Jiangsu,minor,,
+Yanta,36.2411,115.6672,China,CN,Shandong,minor,,
+Baixi,28.6997,104.5492,China,CN,Sichuan,minor,,
+Hanfeng,31.1695,108.4031,China,CN,Chongqing,minor,,
+Guangming,47.3397,130.2868,China,CN,Heilongjiang,minor,,
+Yanjin Chengguanzhen,35.1408,114.1878,China,CN,Henan,minor,,
+Zhaoxian,28.7062,115.7362,China,CN,Jiangxi,minor,,
+Jiangkou,31.5651,107.0974,China,CN,Sichuan,minor,,
+Huarong Chengguanzhen,29.5189,112.5484,China,CN,Hunan,minor,,
+Yaozhou,34.9053,108.97,China,CN,Shaanxi,minor,,
+Dongdajie,37.9269,102.6343,China,CN,Gansu,minor,,
+Pingnan,23.5422,110.3895,China,CN,Guangxi,minor,,
+Gaoyao,23.0243,112.4455,China,CN,Guangdong,minor,,
+Nan?€?an,23.0314,112.4511,China,CN,Guangdong,minor,,
+Yancheng,29.7436,103.5668,China,CN,Sichuan,minor,,
+Longnan,24.9,114.7833,China,CN,Jiangxi,minor,,
+Longcheng,34.1845,116.9508,China,CN,Anhui,minor,,
+Song Xian Chengguanzhen,34.1347,112.0825,China,CN,Henan,minor,,
+Taohuajiang,28.5236,112.1253,China,CN,Hunan,minor,,
+Tubu,29.0453,115.8127,China,CN,Jiangxi,minor,,
+Daokou,35.5639,114.5058,China,CN,Henan,minor,,
+Haimen,31.8962,121.1727,China,CN,Jiangsu,minor,,
+Yuecheng,28.6416,102.5087,China,CN,Sichuan,minor,,
+Linquan Chengguanzhen,33.0851,115.2902,China,CN,Anhui,minor,,
+Tongchuan,31.0941,105.0873,China,CN,Sichuan,minor,,
+Rizhao,35.3958,119.5322,China,CN,Shandong,minor,,
+Daming,36.2861,115.1436,China,CN,Hebei,minor,,
+Zhongzhou,30.294,108.033,China,CN,Chongqing,minor,,
+Lin?€?an,30.2358,119.7181,China,CN,Zhejiang,minor,,
+Guixi,30.3336,107.3454,China,CN,Chongqing,minor,,
+Yancheng Chengguanzhen,33.5847,113.9867,China,CN,Henan,minor,,
+Chicheng,30.7794,105.7121,China,CN,Sichuan,minor,,
+Xiushan,24.11,102.7615,China,CN,Yunnan,minor,,
+Lihou,36.5029,113.3695,China,CN,Shanxi,minor,,
+Ninghai,29.2892,121.4247,China,CN,Zhejiang,minor,,
+Hanshang,32.3774,119.393,China,CN,Jiangsu,minor,,
+Xinmian,29.2399,102.3721,China,CN,Sichuan,minor,,
+Duohu,29.0937,119.6851,China,CN,Zhejiang,minor,,
+Lucheng,31.2336,117.2806,China,CN,Anhui,minor,,
+Danzhu,36.1245,112.861,China,CN,Shanxi,minor,,
+Hecheng,28.1394,120.288,China,CN,Zhejiang,minor,,
+Huaiyang Chengguanzhen,33.7333,114.8833,China,CN,Henan,minor,,
+Poyang,28.9924,116.6675,China,CN,Jiangxi,minor,,
+Bishui,32.7179,113.3117,China,CN,Henan,minor,,
+Erqu,34.1528,108.2064,China,CN,Shaanxi,minor,,
+Yankou,30.3512,106.2867,China,CN,Sichuan,minor,,
+Pitong,30.8099,103.8825,China,CN,Sichuan,minor,,
+Lanshan,35.0979,119.344,China,CN,Shandong,minor,,
+Zhangguizhuang,39.0902,117.3072,China,CN,Tianjin,minor,,
+Shengli,40.1182,116.6429,China,CN,Beijing,minor,,
+Tangxing,35.7452,111.6987,China,CN,Shanxi,minor,,
+Huojia Chengguanzhen,35.2656,113.6506,China,CN,Henan,minor,,
+Wangyue,28.2359,112.917,China,CN,Hunan,minor,,
+Wangkui,46.8328,126.4777,China,CN,Heilongjiang,minor,,
+Fengcheng,26.1972,119.5392,China,CN,Fujian,minor,,
+Jiyuanlu,34.8225,113.2672,China,CN,Henan,minor,,
+Xingsha,28.2397,113.0878,China,CN,Hunan,minor,,
+Liquan Chengguanzhen,34.4811,108.4236,China,CN,Shaanxi,minor,,
+Lechang,35.642,111.4672,China,CN,Shanxi,minor,,
+Jinsha,32.0898,121.0735,China,CN,Jiangsu,minor,,
+Linping,30.4225,120.2972,China,CN,Zhejiang,minor,,
+Yanling,29.5306,104.6611,China,CN,Sichuan,minor,,
+Huazhou,34.5152,109.7576,China,CN,Shaanxi,minor,,
+Chonglong,29.7806,104.8522,China,CN,Sichuan,minor,,
+Runing,33.0011,114.3542,China,CN,Henan,minor,,
+Binhe,37.5108,105.1844,China,CN,Ningxia,minor,,
+Zhaoyu,37.3553,112.3167,China,CN,Shanxi,minor,,
+Yishan,34.2994,119.2542,China,CN,Jiangsu,minor,,
+Xiangdong,27.6521,113.7241,China,CN,Jiangxi,minor,,
+Puyang,29.4568,119.8887,China,CN,Zhejiang,minor,,
+Anxi,25.0571,118.182,China,CN,Fujian,minor,,
+Gongjiang,25.9573,115.41,China,CN,Jiangxi,minor,,
+Bencheng,39.5,118.7,China,CN,Hebei,minor,,
+Lianjiang,22.5902,113.0764,China,CN,Guangdong,minor,,
+Changtu,42.7788,124.0954,China,CN,Liaoning,minor,,
+Jizhou,27.1147,114.9795,China,CN,Jiangxi,minor,,
+Tiantai Chengguanzhen,29.1363,121.0296,China,CN,Zhejiang,minor,,
+Dongzhen,22.3797,110.9389,China,CN,Guangdong,minor,,
+Chenyang,28.0158,110.173,China,CN,Hunan,minor,,
+Gaotangling,28.3667,112.8167,China,CN,Hunan,minor,,
+Chunxi,31.3277,118.8749,China,CN,Jiangsu,minor,,
+Guantao,36.541,115.2829,China,CN,Hebei,minor,,
+Nuojiang,31.9156,107.2427,China,CN,Sichuan,minor,,
+Guoyuan Xincun,39.2219,117.1302,China,CN,Tianjin,minor,,
+Xin?€?an Chengguanzhen,34.7175,112.1356,China,CN,Henan,minor,,
+Danxi,29.4747,121.8656,China,CN,Zhejiang,minor,,
+Anren Chengguanzhen,26.7141,113.2673,China,CN,Hunan,minor,,
+Guozhen,34.3659,107.359,China,CN,Shaanxi,minor,,
+Nanxi,28.8421,104.9796,China,CN,Sichuan,minor,,
+Songlong,31.1624,120.6384,China,CN,Jiangsu,minor,,
+Yongfeng,27.4283,112.1834,China,CN,Hunan,minor,,
+Yanji,33.9653,116.451,China,CN,Henan,minor,,
+Xincheng,22.7016,112.2246,China,CN,Guangdong,minor,,
+Xigang,38.5526,106.348,China,CN,Ningxia,minor,,
+Tiancheng,29.5402,114.0415,China,CN,Hubei,minor,,
+Yunyang,31.9956,119.5646,China,CN,Jiangsu,minor,,
+Hejiang,28.8116,105.8336,China,CN,Sichuan,minor,,
+Licheng,23.2955,113.8246,China,CN,Guangdong,minor,,
+Wuhe Chengguanzhen,33.1386,117.8658,China,CN,Anhui,minor,,
+Kaijiang,31.0396,104.6745,China,CN,Sichuan,minor,,
+Wansheng,28.9629,106.9284,China,CN,Chongqing,minor,,
+Fengqiu Chengguanzhen,35.0292,114.4131,China,CN,Henan,minor,,
+Chengjiang,26.8017,114.8998,China,CN,Jiangxi,minor,,
+Fuying,28.8626,120.7193,China,CN,Zhejiang,minor,,
+Nanjie,38.9546,100.4724,China,CN,Gansu,minor,,
+Dengzhou,37.8082,120.7591,China,CN,Shandong,minor,,
+Dizhuang,33.5645,114.0697,China,CN,Henan,minor,,
+Yunling,23.9538,117.336,China,CN,Fujian,minor,,
+Yuanyang Chengguanzhen,35.0522,113.9639,China,CN,Henan,minor,,
+Guhan,36.5355,113.0253,China,CN,Shanxi,minor,,
+Chengwu,34.9541,115.8842,China,CN,Shandong,minor,,
+Gunan,29.0231,106.648,China,CN,Chongqing,minor,,
+Luozhou,21.6059,110.277,China,CN,Guangdong,minor,,
+Qingyuan,37.6175,112.3258,China,CN,Shanxi,minor,,
+Deqing,30.5449,119.9599,China,CN,Zhejiang,minor,,
+Luhua,36.3314,113.2244,China,CN,Shanxi,minor,,
+Gushi Chengguanzhen,32.1621,115.6699,China,CN,Henan,minor,,
+Xiayi Chengguanzhen,34.2368,116.1161,China,CN,Henan,minor,,
+Emin,46.5257,83.6332,China,CN,Xinjiang,minor,,
+Haimen,28.6807,121.4241,China,CN,Zhejiang,minor,,
+Dahuaishu,36.2656,111.6753,China,CN,Shanxi,minor,,
+Lufeng,27.9094,110.5858,China,CN,Hunan,minor,,
+Daying,34.7218,111.1029,China,CN,Henan,minor,,
+Jinniu,25.8006,100.5743,China,CN,Yunnan,minor,,
+Fengcheng,35.4922,112.4043,China,CN,Shanxi,minor,,
+Dongguan,39.0173,111.1267,China,CN,Shanxi,minor,,
+Yong?€?an,39.6957,113.6871,China,CN,Shanxi,minor,,
+Fufeng,34.3605,107.8735,China,CN,Shaanxi,minor,,
+Weicheng,34.3314,108.7169,China,CN,Shaanxi,minor,,
+Wenshang,35.7284,116.4912,China,CN,Shandong,minor,,
+Jing?€?an,22.2107,113.2922,China,CN,Guangdong,minor,,
+Loushanguan,28.1368,106.822,China,CN,Guizhou,minor,,
+Peicheng,34.7361,116.9247,China,CN,Jiangsu,minor,,
+Tiantang,30.85,116.35,China,CN,Anhui,minor,,
+Renminlu,36.5512,104.1695,China,CN,Gansu,minor,,
+Hongqiao,26.7684,112.1081,China,CN,Hunan,minor,,
+Taikang Chengguanzhen,34.0667,114.8667,China,CN,Henan,minor,,
+Weishi Chengguanzhen,34.4136,114.1872,China,CN,Henan,minor,,
+Yelin,18.521,110.0397,China,CN,Hainan,minor,,
+Baiyashi,26.3888,111.2621,China,CN,Hunan,minor,,
+Ningling Chengguanzhen,34.45,115.3167,China,CN,Henan,minor,,
+Fangcheng Chengguanzhen,33.2532,113.0012,China,CN,Henan,minor,,
+Nanchangshan,37.9152,120.7325,China,CN,Shandong,minor,,
+Mingxing,37.4264,112.5442,China,CN,Shanxi,minor,,
+Jincheng,30.9971,105.8819,China,CN,Sichuan,minor,,
+Nanzhou,29.3596,112.4024,China,CN,Hunan,minor,,
+Taiqian Chengguanzhen,35.991,115.8532,China,CN,Henan,minor,,
+Yunxi,31.2264,105.3861,China,CN,Sichuan,minor,,
+Fengxian,34.7039,116.5872,China,CN,Jiangsu,minor,,
+Huili Chengguanzhen,26.6626,102.2439,China,CN,Sichuan,minor,,
+Dazhong,33.1997,120.4578,China,CN,Jiangsu,minor,,
+Yingshang Chengguanzhen,32.6295,116.2701,China,CN,Anhui,minor,,
+Funan Chengguanzhen,32.6368,115.6149,China,CN,Anhui,minor,,
+Mianchi Chengguanzhen,34.7542,111.7594,China,CN,Henan,minor,,
+Ningjin,37.6498,116.7933,China,CN,Shandong,minor,,
+Tongxu Chengguanzhen,34.4772,114.4583,China,CN,Henan,minor,,
+Nanhai,21.4725,111.0268,China,CN,Guangdong,minor,,
+Shedian,33.0613,112.9426,China,CN,Henan,minor,,
+Xuyang,29.4594,104.4195,China,CN,Sichuan,minor,,
+Dong?€?an,46.594,125.0788,China,CN,Heilongjiang,minor,,
+Yanqing,40.4609,115.9715,China,CN,Beijing,minor,,
+Baofeng Chengguanzhen,33.8703,113.0653,China,CN,Henan,minor,,
+Anxiang,29.4,112.15,China,CN,Hunan,minor,,
+Daiyue,39.5204,112.8168,China,CN,Shanxi,minor,,
+Xiongzhou,32.3436,118.8499,China,CN,Jiangsu,minor,,
+Taocheng,25.3123,118.3006,China,CN,Fujian,minor,,
+Yisuhe,27.7654,112.9268,China,CN,Hunan,minor,,
+Quanjiang,26.3096,114.5129,China,CN,Jiangxi,minor,,
+Shishan,31.2988,120.5652,China,CN,Jiangsu,minor,,
+Cuifeng,36.8452,111.7817,China,CN,Shanxi,minor,,
+Yancheng,29.6507,104.0672,China,CN,Sichuan,minor,,
+Yushan,31.6775,120.8013,China,CN,Jiangsu,minor,,
+Hexi,21.6865,110.6342,China,CN,Guangdong,minor,,
+Linquan,37.9796,111.0206,China,CN,Shanxi,minor,,
+Baoyou,18.7493,109.1717,China,CN,Hainan,minor,,
+Fengxiang Chengguanzhen,34.523,107.3913,China,CN,Shaanxi,minor,,
+Gul??,32.7439,114.9761,China,CN,Henan,minor,,
+Xin?€?anjiang,29.4748,119.2715,China,CN,Zhejiang,minor,,
+Xun Xian Chengguanzhen,35.6647,114.5346,China,CN,Henan,minor,,
+Zitong,30.1782,105.8299,China,CN,Chongqing,minor,,
+Sangyuan,37.6256,116.3826,China,CN,Hebei,minor,,
+Gangu Chengguanzhen,34.7356,105.3263,China,CN,Gansu,minor,,
+Xingpinglu,36.7275,104.8138,China,CN,Gansu,minor,,
+Penglai,30.5822,105.2514,China,CN,Sichuan,minor,,
+Lingcheng,37.3313,116.5695,China,CN,Shandong,minor,,
+Cuijiang,26.2632,116.6499,China,CN,Fujian,minor,,
+Wuchang,44.9143,127.15,China,CN,Heilongjiang,minor,,
+Doucun,34.7481,109.1797,China,CN,Shaanxi,minor,,
+Dianbu,31.8731,117.458,China,CN,Anhui,minor,,
+Anling,34.1089,114.1698,China,CN,Henan,minor,,
+Shoushan,34.2777,107.7462,China,CN,Shaanxi,minor,,
+Quyang,33.1447,113.9903,China,CN,Henan,minor,,
+Wuyun,28.6539,120.0669,China,CN,Zhejiang,minor,,
+Fuyu,30.15,116.1167,China,CN,Anhui,minor,,
+Jinxiang,35.0704,116.3239,China,CN,Shandong,minor,,
+She Xian,36.5566,113.6687,China,CN,Hebei,minor,,
+Yingshouyingzi,40.5515,117.6616,China,CN,Hebei,minor,,
+Hede,33.7722,120.2618,China,CN,Jiangsu,minor,,
+Dongshan,47.3428,130.3122,China,CN,Heilongjiang,minor,,
+Zhangjiang,28.911,111.4799,China,CN,Hunan,minor,,
+Tangxiang,29.7023,105.7236,China,CN,Chongqing,minor,,
+Jiaocheng,24.6573,116.1671,China,CN,Guangdong,minor,,
+Guhuai,32.9586,114.6255,China,CN,Henan,minor,,
+Tangyang Chengguanzhen,35.9145,114.3551,China,CN,Henan,minor,,
+Xiedian,35.4282,110.8118,China,CN,Shanxi,minor,,
+Qincheng,27.2127,116.5301,China,CN,Jiangxi,minor,,
+Qishan,29.8443,117.7194,China,CN,Anhui,minor,,
+Jingchuan Chengguanzhen,35.3319,107.3611,China,CN,Gansu,minor,,
+Yishi,35.165,110.746,China,CN,Shanxi,minor,,
+Fugou Chengguanzhen,34.0667,114.3833,China,CN,Henan,minor,,
+Fangzheng,45.8388,128.8276,China,CN,Heilongjiang,minor,,
+Gaocun,27.8773,109.7848,China,CN,Hunan,minor,,
+Jincheng,39.5591,113.1855,China,CN,Shanxi,minor,,
+Qiaotou,36.935,101.6736,China,CN,Qinghai,minor,,
+Rushan,36.9052,121.5326,China,CN,Shandong,minor,,
+Renhe,26.4993,101.7386,China,CN,Sichuan,minor,,
+Toqsu,41.5503,82.6167,China,CN,Xinjiang,minor,,
+Tianchi,30.2811,105.0235,China,CN,Sichuan,minor,,
+Daqinglu,34.8993,112.5831,China,CN,Henan,minor,,
+Xing?€?an,47.2463,130.2204,China,CN,Heilongjiang,minor,,
+Yancheng,36.7994,116.7439,China,CN,Shandong,minor,,
+Xiguan,33.8667,115.4667,China,CN,Henan,minor,,
+Zherong,27.24,119.8944,China,CN,Fujian,minor,,
+Sanhe,29.8686,107.7303,China,CN,Chongqing,minor,,
+Luyuan,34.536,109.0851,China,CN,Shaanxi,minor,,
+Shacheng,40.3914,115.5114,China,CN,Hebei,minor,,
+Bayinsai,39.5002,106.7202,China,CN,Inner Mongolia,minor,,
+Binhe,32.6883,112.8275,China,CN,Henan,minor,,
+Handian,36.0458,113.0442,China,CN,Shanxi,minor,,
+Zhenyang,32.6036,114.3831,China,CN,Henan,minor,,
+Sui?€?an,24.087,117.6091,China,CN,Fujian,minor,,
+Jiuquan,39.7432,98.5174,China,CN,Gansu,minor,,
+Taohong,27.1011,110.9949,China,CN,Hunan,minor,,
+Xipu,23.6991,117.4251,China,CN,Fujian,minor,,
+Mengjin Chengguanzhen,34.8269,112.4313,China,CN,Henan,minor,,
+Dawu Chengguanzhen,31.6096,114.1181,China,CN,Hubei,minor,,
+Luoshan Chengguanzhen,32.2032,114.5094,China,CN,Henan,minor,,
+Lucheng,22.3149,110.2563,China,CN,Guangxi,minor,,
+Jinggan,34.53,108.8342,China,CN,Shaanxi,minor,,
+Qianquan,30.8713,114.3726,China,CN,Hubei,minor,,
+Huangpi,30.8845,114.3779,China,CN,Hubei,minor,,
+Longquan,25.9014,112.2117,China,CN,Hunan,minor,,
+Xiaoxi,24.3525,117.2907,China,CN,Fujian,minor,,
+Hanshou,28.9058,111.9561,China,CN,Hunan,minor,,
+Gongjing,29.3475,104.7116,China,CN,Sichuan,minor,,
+Tianning,37.5472,112.1605,China,CN,Shanxi,minor,,
+Liyang,31.7177,118.3573,China,CN,Anhui,minor,,
+Shiqiao,27.9819,120.5592,China,CN,Zhejiang,minor,,
+Qi Xian Chengguanzhen,34.55,114.7833,China,CN,Henan,minor,,
+Gucheng Chengguanzhen,32.266,111.6348,China,CN,Hubei,minor,,
+Dongkou,27.0527,110.5361,China,CN,Hunan,minor,,
+Zhecheng Chengguanzhen,34.1046,115.3176,China,CN,Henan,minor,,
+Nanle Chengguanzhen,36.0762,115.1991,China,CN,Henan,minor,,
+Chaling Chengguanzhen,26.791,113.5398,China,CN,Hunan,minor,,
+Youxian Chengguanzhen,26.9917,113.3606,China,CN,Hunan,minor,,
+Xuyong,28.1699,105.4345,China,CN,Sichuan,minor,,
+Shangpai,31.7456,117.1611,China,CN,Anhui,minor,,
+Zhoukou,31.0347,106.4011,China,CN,Sichuan,minor,,
+Juye,35.3947,116.0883,China,CN,Shandong,minor,,
+Rongcheng,30.6428,117.8352,China,CN,Anhui,minor,,
+Shangli,27.8771,113.792,China,CN,Jiangxi,minor,,
+Xi Xian Chengguanzhen,32.3436,114.7294,China,CN,Henan,minor,,
+Kunyang,33.62,113.345,China,CN,Henan,minor,,
+Nancheng,36.9486,115.9978,China,CN,Shandong,minor,,
+Pumiao,22.7587,108.4811,China,CN,Guangxi,minor,,
+Shangguan,39.069,112.9291,China,CN,Shanxi,minor,,
+Bobai,22.2708,109.9743,China,CN,Guangxi,minor,,
+Chaicun,37.9328,112.4764,China,CN,Shanxi,minor,,
+Fengcheng,37.4328,112.0233,China,CN,Shanxi,minor,,
+Douhudi,30.0606,112.2242,China,CN,Hubei,minor,,
+Zhushan Chengguanzhen,32.2218,110.2361,China,CN,Hubei,minor,,
+Pingchuan,25.0945,116.096,China,CN,Fujian,minor,,
+Qingfu,28.437,104.5162,China,CN,Sichuan,minor,,
+Jianjun,34.6914,108.1397,China,CN,Shaanxi,minor,,
+Hanyuan,34.0108,105.2919,China,CN,Gansu,minor,,
+Lukou,27.7029,113.152,China,CN,Hunan,minor,,
+Hancheng,32.5186,112.3522,China,CN,Henan,minor,,
+Jiang?€?an,28.7334,105.0683,China,CN,Sichuan,minor,,
+Minjian,28.8462,103.5458,China,CN,Sichuan,minor,,
+Wenbi,39.3874,111.1912,China,CN,Shanxi,minor,,
+Donghegumiao,36.9786,115.109,China,CN,Hebei,minor,,
+Shunling,25.5917,111.9303,China,CN,Hunan,minor,,
+Lankao Chengguanzhen,34.8329,114.8072,China,CN,Henan,minor,,
+Juancheng,35.5616,115.5013,China,CN,Shandong,minor,,
+Shucheng Chengguanzhen,31.4745,116.9521,China,CN,Anhui,minor,,
+Wufeng,27.45,104.8333,China,CN,Yunnan,minor,,
+Dezhou,27.4081,102.18,China,CN,Sichuan,minor,,
+Wenping,27.1931,103.5273,China,CN,Yunnan,minor,,
+Fengcheng,24.7236,116.7243,China,CN,Fujian,minor,,
+Xidu,26.9563,112.3683,China,CN,Hunan,minor,,
+Gaohe,30.7417,116.8426,China,CN,Anhui,minor,,
+Dingtao,35.0744,115.5658,China,CN,Shandong,minor,,
+Meijiang,26.4758,116.015,China,CN,Jiangxi,minor,,
+Xinzhai,23.7205,117.1487,China,CN,Fujian,minor,,
+Junyang,28.4167,115.3667,China,CN,Jiangxi,minor,,
+Yanghe,38.2785,106.2478,China,CN,Ningxia,minor,,
+Chujiang,29.5771,111.363,China,CN,Hunan,minor,,
+Languan,34.1575,109.3142,China,CN,Shaanxi,minor,,
+Xinjia,37.6574,120.485,China,CN,Shandong,minor,,
+Yangying,35.818,115.9481,China,CN,Shandong,minor,,
+Zhijin,26.6668,105.768,China,CN,Guizhou,minor,,
+Xinning,31.0851,107.8651,China,CN,Sichuan,minor,,
+Beiyuan,39.9036,116.6467,China,CN,Beijing,minor,,
+Jinxi,30.4323,116.2922,China,CN,Anhui,minor,,
+Sicheng,33.4894,117.8568,China,CN,Anhui,minor,,
+Niangxi,27.3086,111.4319,China,CN,Hunan,minor,,
+Guiyang Chengguanzhen,25.7333,112.7459,China,CN,Hunan,minor,,
+Mingzhou,36.9761,115.2566,China,CN,Hebei,minor,,
+Luoyang,27.5614,119.7114,China,CN,Zhejiang,minor,,
+Lingchuan,25.4095,110.3228,China,CN,Guangxi,minor,,
+Pingdu,27.3863,114.6102,China,CN,Jiangxi,minor,,
+Tongcheng,35.3547,111.2161,China,CN,Shanxi,minor,,
+Xincheng,33.6333,115.1833,China,CN,Henan,minor,,
+Zhangwan,32.0833,112.1667,China,CN,Hubei,minor,,
+Xunzhong,25.4943,118.2389,China,CN,Fujian,minor,,
+Chengzhong,22.1355,107.0647,China,CN,Guangxi,minor,,
+Yuncheng,35.5983,115.9347,China,CN,Shandong,minor,,
+Zhonghe,28.4505,108.989,China,CN,Chongqing,minor,,
+Shinan,22.7439,109.8743,China,CN,Guangxi,minor,,
+Changning,28.5777,104.9209,China,CN,Sichuan,minor,,
+Xunchang,28.4543,104.715,China,CN,Sichuan,minor,,
+Yongxing Chengguanzhen,26.1241,113.1285,China,CN,Hunan,minor,,
+Zishui,32.0077,114.9011,China,CN,Henan,minor,,
+Liulinzhou,29.4564,113.0103,China,CN,Hunan,minor,,
+Heping,28.5579,108.49,China,CN,Guizhou,minor,,
+Qingfeng Chengguanzhen,35.9036,115.1053,China,CN,Henan,minor,,
+Taihe Chengguanzhen,33.1655,115.6489,China,CN,Anhui,minor,,
+Huarong,30.5333,114.7333,China,CN,Hubei,minor,,
+Neihuang Chengguanzhen,35.9508,114.9022,China,CN,Henan,minor,,
+Fuji,29.1482,105.3739,China,CN,Sichuan,minor,,
+Dongcheng,33.4123,115.0809,China,CN,Henan,minor,,
+Rongcheng,22.8584,110.5464,China,CN,Guangxi,minor,,
+Tancheng,34.6152,118.338,China,CN,Shandong,minor,,
+Poskam,38.1887,77.2707,China,CN,Xinjiang,minor,,
+Longcheng,29.8991,116.5511,China,CN,Jiangxi,minor,,
+Ducheng,23.2421,111.5284,China,CN,Guangdong,minor,,
+Lingjiang,31.7346,105.9316,China,CN,Sichuan,minor,,
+Longde Chengguanzhen,35.6125,106.1167,China,CN,Ningxia,minor,,
+Baicheng,41.7739,81.8689,China,CN,Xinjiang,minor,,
+Qinting,27.1241,113.949,China,CN,Jiangxi,minor,,
+Lingcheng,22.4232,109.293,China,CN,Guangxi,minor,,
+Linjiang,36.3275,112.8819,China,CN,Shanxi,minor,,
+Huicheng,29.8693,118.4336,China,CN,Anhui,minor,,
+Puji,27.3802,102.5413,China,CN,Sichuan,minor,,
+Salaqi,40.5414,110.5108,China,CN,Inner Mongolia,minor,,
+Guancheng,36.4803,115.4351,China,CN,Shandong,minor,,
+Yunxixian Chengguanzhen,32.9828,110.4231,China,CN,Hubei,minor,,
+Liujiaxia,35.934,103.3183,China,CN,Gansu,minor,,
+Leping,37.6147,113.665,China,CN,Shanxi,minor,,
+Pingpo,25.4284,103.7545,China,CN,Yunnan,minor,,
+Xing?€?an,25.6196,110.6425,China,CN,Guangxi,minor,,
+Nanjiang,32.3539,106.8324,China,CN,Sichuan,minor,,
+Xiangcheng Chengguanzhen,33.847,113.4778,China,CN,Henan,minor,,
+Dunhou,27.05,114.9,China,CN,Jiangxi,minor,,
+Shengrenjian,34.8442,111.1913,China,CN,Shanxi,minor,,
+Luogang,23.1779,113.501,China,CN,Guangdong,minor,,
+Shouchun,32.5816,116.7929,China,CN,Anhui,minor,,
+Qingquan,30.4511,115.2559,China,CN,Hubei,minor,,
+Linli,29.45,111.65,China,CN,Hunan,minor,,
+Dongguang,37.8851,116.5328,China,CN,Hebei,minor,,
+Lingcheng,35.534,116.918,China,CN,Shandong,minor,,
+Sui Xian Chengguanzhen,34.448,115.0444,China,CN,Henan,minor,,
+Nanma,36.1848,118.1549,China,CN,Shandong,minor,,
+Jinchuan,31.4755,102.0588,China,CN,Sichuan,minor,,
+Yuzhong Chengguanzhen,35.8428,104.1125,China,CN,Gansu,minor,,
+Leiyang,30.1204,116.6829,China,CN,Anhui,minor,,
+Zhongmu Chengguanzhen,34.7115,113.9656,China,CN,Henan,minor,,
+Dingchang,36.7631,112.6872,China,CN,Shanxi,minor,,
+Wacheng,33.7833,114.5167,China,CN,Henan,minor,,
+Quanzhou,25.9446,111.0364,China,CN,Guangxi,minor,,
+Jifeng,35.6135,110.9585,China,CN,Shanxi,minor,,
+Guangrao,37.0529,118.3991,China,CN,Shandong,minor,,
+Zhangcheng,25.8468,118.9369,China,CN,Fujian,minor,,
+Xixiang,32.987,107.764,China,CN,Shaanxi,minor,,
+Dongcun,38.2944,111.7035,China,CN,Shanxi,minor,,
+Qianling,28.7119,109.646,China,CN,Hunan,minor,,
+Sunjia Buzi,42.0171,126.5851,China,CN,Jilin,minor,,
+Dongshan,25.7939,114.5426,China,CN,Jiangxi,minor,,
+Huaicheng,23.9195,112.1763,China,CN,Guangdong,minor,,
+Naxi,28.7742,105.3649,China,CN,Sichuan,minor,,
+Tonghe,45.9761,128.7429,China,CN,Heilongjiang,minor,,
+Xiangfeng,29.5076,109.4027,China,CN,Hubei,minor,,
+Xincheng,28.0151,102.8423,China,CN,Sichuan,minor,,
+Huayuan,28.5881,109.4758,China,CN,Hunan,minor,,
+Echeng,38.3744,111.9717,China,CN,Shanxi,minor,,
+Huaibin Chengguanzhen,32.464,115.4081,China,CN,Henan,minor,,
+Jinyuan,37.7269,112.4708,China,CN,Shanxi,minor,,
+Dazhe,24.5756,115.8918,China,CN,Guangdong,minor,,
+Xujiang,26.8394,116.3201,China,CN,Jiangxi,minor,,
+Gounan,47.3594,130.2975,China,CN,Heilongjiang,minor,,
+Tuojiang,25.1867,111.5717,China,CN,Hunan,minor,,
+Lintong,34.378,109.2089,China,CN,Shaanxi,minor,,
+Xicheng,40.1106,114.1589,China,CN,Hebei,minor,,
+Baoshan,31.4084,121.4896,China,CN,Shanghai,minor,,
+Chuimatan,35.7181,102.8741,China,CN,Gansu,minor,,
+Hanyin Chengguanzhen,32.8914,108.5047,China,CN,Shaanxi,minor,,
+Fengming,34.4414,107.6178,China,CN,Shaanxi,minor,,
+Luocheng,25.0323,118.795,China,CN,Fujian,minor,,
+Yunji,26.6932,112.6675,China,CN,Hunan,minor,,
+L??eyang Chengguanzhen,33.332,106.155,China,CN,Shaanxi,minor,,
+Hengdong Chengguanzhen,27.0833,112.95,China,CN,Hunan,minor,,
+Ruyang Chengguanzhen,34.1503,112.4583,China,CN,Henan,minor,,
+Chenying,28.6929,117.0673,China,CN,Jiangxi,minor,,
+Zhaozhen,30.8563,104.4361,China,CN,Sichuan,minor,,
+Weiyuan,36.8532,101.9917,China,CN,Qinghai,minor,,
+Tafeng,25.3541,112.1899,China,CN,Hunan,minor,,
+Pan?€?an,29.0537,120.4376,China,CN,Zhejiang,minor,,
+Meilu,21.4341,110.7755,China,CN,Guangdong,minor,,
+Kuangyuan,24.9138,103.1479,China,CN,Yunnan,minor,,
+Lianfeng,25.7044,116.7216,China,CN,Fujian,minor,,
+Zhongshu,25.0273,103.663,China,CN,Yunnan,minor,,
+Xinmatou,36.818,115.1705,China,CN,Hebei,minor,,
+Jianghai,22.5752,113.119,China,CN,Guangdong,minor,,
+Kongjiazhuang,40.7525,114.7261,China,CN,Hebei,minor,,
+Tianyi,41.5667,119.3333,China,CN,Inner Mongolia,minor,,
+Mengshan,24.2141,110.5178,China,CN,Guangxi,minor,,
+Suicheng,21.3795,110.2505,China,CN,Guangdong,minor,,
+Donghe,32.2334,106.3013,China,CN,Sichuan,minor,,
+Hekou,28.3159,117.7084,China,CN,Jiangxi,minor,,
+Panlong,32.8022,114.0192,China,CN,Henan,minor,,
+Jinchuan,27.7604,115.3885,China,CN,Jiangxi,minor,,
+Xingguo,34.8586,105.6686,China,CN,Gansu,minor,,
+Taicheng,38.731,113.228,China,CN,Shanxi,minor,,
+Yongchang,31.6657,104.4373,China,CN,Sichuan,minor,,
+Jingzhou,37.6887,116.2596,China,CN,Hebei,minor,,
+Dawa,40.9937,122.068,China,CN,Liaoning,minor,,
+Chengxi,29.5329,108.7651,China,CN,Chongqing,minor,,
+Wenchang,31.6363,105.155,China,CN,Sichuan,minor,,
+Youxi,26.1736,118.1789,China,CN,Fujian,minor,,
+Hengzhou,22.6886,109.2659,China,CN,Guangxi,minor,,
+Guzhen Chengguanzhen,33.3106,117.3106,China,CN,Anhui,minor,,
+Xincheng,35.875,111.4353,China,CN,Shanxi,minor,,
+Shangcheng Chengguanzhen,31.7953,115.4011,China,CN,Henan,minor,,
+Huagai,31.5463,104.5553,China,CN,Sichuan,minor,,
+Khutubi,44.1903,86.8852,China,CN,Xinjiang,minor,,
+Huoqiu Chengguanzhen,32.3547,116.2939,China,CN,Anhui,minor,,
+Dingcheng,32.5161,117.6595,China,CN,Anhui,minor,,
+Qiaoxu,22.9562,109.7607,China,CN,Guangxi,minor,,
+Ningxiang,37.34,111.2052,China,CN,Shanxi,minor,,
+Chengxiang,31.3986,109.6228,China,CN,Chongqing,minor,,
+Xiushui,38.1038,113.3886,China,CN,Shanxi,minor,,
+Nan?€?an,25.3998,114.3622,China,CN,Jiangxi,minor,,
+Liyuan,29.3954,110.1559,China,CN,Hunan,minor,,
+Dajie,24.2962,102.7506,China,CN,Yunnan,minor,,
+Guangzhoulu,38.4991,102.1681,China,CN,Gansu,minor,,
+Nanjie,23.6341,112.4348,China,CN,Guangdong,minor,,
+Songyuan,27.6217,119.0592,China,CN,Zhejiang,minor,,
+Jingchuan,30.6892,118.4043,China,CN,Anhui,minor,,
+Chaigoubu,40.6678,114.4114,China,CN,Hebei,minor,,
+Xinzheng,31.2749,106.2871,China,CN,Sichuan,minor,,
+Yanqi,42.062,86.5663,China,CN,Xinjiang,minor,,
+Songyuan,27.5273,118.7766,China,CN,Fujian,minor,,
+Yangxin,37.6447,117.5767,China,CN,Shandong,minor,,
+Yitiaoshan,37.1533,104.062,China,CN,Gansu,minor,,
+Xinguan,39.4553,111.53,China,CN,Shanxi,minor,,
+Huanfeng,31.7167,118.1,China,CN,Anhui,minor,,
+Yong?€?an,36.6576,111.5664,China,CN,Shanxi,minor,,
+Minqing,26.2248,118.8597,China,CN,Fujian,minor,,
+Yongle,33.2646,104.2328,China,CN,Sichuan,minor,,
+Jishi,35.8461,102.4817,China,CN,Qinghai,minor,,
+Dongcheng,21.882,112.0102,China,CN,Guangdong,minor,,
+Zhuolu,40.3694,115.2161,China,CN,Hebei,minor,,
+Fengyang Fuchengzhen,32.8797,117.5447,China,CN,Anhui,minor,,
+Guidong Chengguanzhen,26.079,113.9406,China,CN,Hunan,minor,,
+Chunhua,34.7989,108.575,China,CN,Shaanxi,minor,,
+Guyang,32.1354,119.4421,China,CN,Jiangsu,minor,,
+Bashan,27.7682,116.0502,China,CN,Jiangxi,minor,,
+Jicheng,37.0636,112.9577,China,CN,Shanxi,minor,,
+Fucheng,35.3725,103.7056,China,CN,Gansu,minor,,
+Linxi,36.8627,115.4925,China,CN,Hebei,minor,,
+Shuangfengqiao,29.7186,106.6271,China,CN,Chongqing,minor,,
+Rucheng Chengguanzhen,25.5364,113.7155,China,CN,Hunan,minor,,
+Beidaihe,39.8614,119.4177,China,CN,Hebei,minor,,
+Huidong,26.6374,102.5757,China,CN,Sichuan,minor,,
+Shancheng,24.4916,117.3457,China,CN,Fujian,minor,,
+Jishan,30.9215,118.3302,China,CN,Anhui,minor,,
+Neixiang Chengguanzhen,33.0467,111.8436,China,CN,Henan,minor,,
+Longxian Chengguanzhen,34.9073,106.8497,China,CN,Shaanxi,minor,,
+Wenfeng,27.199,115.1196,China,CN,Jiangxi,minor,,
+Dangchang Chengguanzhen,34.0446,104.3946,China,CN,Gansu,minor,,
+Lincheng,19.9078,109.6858,China,CN,Hainan,minor,,
+Lishu,43.3047,124.3278,China,CN,Jilin,minor,,
+Yangshuo,24.7844,110.4751,China,CN,Guangxi,minor,,
+Mugala,36.8576,81.6684,China,CN,Xinjiang,minor,,
+Cili,29.4244,111.1201,China,CN,Hunan,minor,,
+Fengyi,28.5537,107.439,China,CN,Guizhou,minor,,
+Dongluqiao,36.6815,115.3409,China,CN,Hebei,minor,,
+Zhangbei,41.1525,114.7078,China,CN,Hebei,minor,,
+Chaoyang,37.908,113.1504,China,CN,Shanxi,minor,,
+Beijie,36.7162,115.1595,China,CN,Hebei,minor,,
+Junlian,28.1711,104.5116,China,CN,Sichuan,minor,,
+Xinshiba,28.9709,102.7713,China,CN,Sichuan,minor,,
+Liaogao,28.17,109.195,China,CN,Guizhou,minor,,
+Hanji,35.4954,102.9926,China,CN,Gansu,minor,,
+Longxu,23.4167,111.2333,China,CN,Guangxi,minor,,
+Hezheng Chengguanzhen,35.43,103.3573,China,CN,Gansu,minor,,
+Awat,40.6384,80.3797,China,CN,Xinjiang,minor,,
+Nanzhao,23.7199,117.171,China,CN,Fujian,minor,,
+Lin?€?an,23.6025,102.8309,China,CN,Yunnan,minor,,
+Shule,39.4023,76.0508,China,CN,Xinjiang,minor,,
+Kuancheng,40.6056,118.4825,China,CN,Hebei,minor,,
+Shahejie,29.6079,115.8872,China,CN,Jiangxi,minor,,
+Chengxiang,23.161,108.2776,China,CN,Guangxi,minor,,
+Jiangkou,23.4392,111.4974,China,CN,Guangdong,minor,,
+Maoping,30.8297,110.9778,China,CN,Hubei,minor,,
+Yunxing,39.9991,112.6979,China,CN,Shanxi,minor,,
+Yuhai,36.9813,105.9061,China,CN,Ningxia,minor,,
+Lingxi,29.005,109.8447,China,CN,Hunan,minor,,
+Maytagh,44.3333,84.85,China,CN,Xinjiang,minor,,
+Jingping,39.52,112.2839,China,CN,Shanxi,minor,,
+Hong?€?an Chengguanzhen,31.3621,114.6369,China,CN,Hubei,minor,,
+Shayang,30.7178,112.6058,China,CN,Hubei,minor,,
+Aral,40.5418,81.2657,China,CN,Xinjiang,minor,,
+Dingcheng,19.6791,110.3623,China,CN,Hainan,minor,,
+Tantang,23.1368,109.4131,China,CN,Guangxi,minor,,
+Hezhang,27.1222,104.7239,China,CN,Guizhou,minor,,
+Matou,23.3553,107.5564,China,CN,Guangxi,minor,,
+Jincheng,28.2665,103.5684,China,CN,Sichuan,minor,,
+Lop,37.074,80.1823,China,CN,Xinjiang,minor,,
+Suonan,35.6665,103.3979,China,CN,Gansu,minor,,
+Fucheng,37.8691,116.1506,China,CN,Hebei,minor,,
+Datong,46.0338,124.8106,China,CN,Heilongjiang,minor,,
+Nanzhao Chengguanzhen,33.4925,112.4272,China,CN,Henan,minor,,
+Hanchang,28.7,113.5833,China,CN,Hunan,minor,,
+Lufu,24.7602,103.2665,China,CN,Yunnan,minor,,
+Hongmiao,32.2248,118.9197,China,CN,Jiangsu,minor,,
+Fan Xian Chengguanzhen,35.8581,115.5006,China,CN,Henan,minor,,
+Kaihua Chengguanzhen,29.1459,118.409,China,CN,Zhejiang,minor,,
+Haoxue,30.0476,112.4676,China,CN,Hubei,minor,,
+Yinying,37.9369,113.5575,China,CN,Shanxi,minor,,
+Zhaoren,35.2067,107.7914,China,CN,Shaanxi,minor,,
+Yuanling,28.4486,110.4022,China,CN,Hunan,minor,,
+Mianyang,33.157,106.6945,China,CN,Shaanxi,minor,,
+Fengzhou,36.8428,112.8542,China,CN,Shanxi,minor,,
+Zhangjiapan,37.6016,108.797,China,CN,Shaanxi,minor,,
+Nancun,35.4635,112.796,China,CN,Shanxi,minor,,
+Shaping,29.2308,103.2659,China,CN,Sichuan,minor,,
+Dianjun,30.7015,111.2599,China,CN,Hubei,minor,,
+Kaiyun,27.2135,112.856,China,CN,Hunan,minor,,
+Gujiang,35.494,111.5533,China,CN,Shanxi,minor,,
+Gulaobei,30.5194,111.4266,China,CN,Hubei,minor,,
+Xiangjiaba,28.6327,104.4042,China,CN,Yunnan,minor,,
+Mingshui,47.1815,125.9003,China,CN,Heilongjiang,minor,,
+Aoyang,27.4589,119.5014,China,CN,Fujian,minor,,
+Huanan,46.2207,130.525,China,CN,Heilongjiang,minor,,
+Fuyang,24.8344,111.258,China,CN,Guangxi,minor,,
+Fenyi,27.8112,114.668,China,CN,Jiangxi,minor,,
+Changbai,41.4167,128.1905,China,CN,Jilin,minor,,
+Wulingyuan,29.3494,110.5441,China,CN,Hunan,minor,,
+Zhouning,27.1067,119.335,China,CN,Fujian,minor,,
+Langao Chengguanzhen,32.3003,108.8931,China,CN,Shaanxi,minor,,
+Guanghe Chengguanzhen,35.4815,103.576,China,CN,Gansu,minor,,
+Dingbian,37.5927,107.5943,China,CN,Shaanxi,minor,,
+Yuelai,47.0232,130.713,China,CN,Heilongjiang,minor,,
+Jingpeng,43.25,117.5167,China,CN,Inner Mongolia,minor,,
+Yuxi,28.889,107.594,China,CN,Guizhou,minor,,
+Xinhua,26.8884,102.9332,China,CN,Yunnan,minor,,
+Zijin,33.2892,111.4744,China,CN,Henan,minor,,
+Muxi,28.9596,103.9009,China,CN,Sichuan,minor,,
+Tiantan,35.9661,111.8417,China,CN,Shanxi,minor,,
+Gushu,31.5605,118.4815,China,CN,Anhui,minor,,
+Xunyi Chengguanzhen,35.1173,108.3128,China,CN,Shaanxi,minor,,
+Nanpi,38.0333,116.7,China,CN,Hebei,minor,,
+Datian,25.7013,117.8363,China,CN,Fujian,minor,,
+Huliao,24.3576,116.6866,China,CN,Guangdong,minor,,
+Mulan,45.9471,128.0371,China,CN,Heilongjiang,minor,,
+Shazhou,40.138,94.6623,China,CN,Gansu,minor,,
+Songyang,25.3251,103.0298,China,CN,Yunnan,minor,,
+Sanhe,36.5641,105.639,China,CN,Ningxia,minor,,
+Mingyue,43.1069,128.9217,China,CN,Jilin,minor,,
+Anju,30.3496,105.4559,China,CN,Sichuan,minor,,
+Yuli,41.3366,86.2568,China,CN,Xinjiang,minor,,
+Tuojiang,27.9547,109.568,China,CN,Hunan,minor,,
+Weifen,38.4806,111.1666,China,CN,Shanxi,minor,,
+Pingma,23.6374,107.1014,China,CN,Guangxi,minor,,
+Aoxi,27.4259,115.8364,China,CN,Jiangxi,minor,,
+Gutian,26.587,118.7358,China,CN,Fujian,minor,,
+Yizhang Chengguanzhen,25.3832,112.979,China,CN,Hunan,minor,,
+Yantan,29.274,104.8738,China,CN,Sichuan,minor,,
+Jiangle,26.7423,117.4646,China,CN,Fujian,minor,,
+Yuanba,32.3256,105.9618,China,CN,Sichuan,minor,,
+Fushi,29.1838,105.0011,China,CN,Sichuan,minor,,
+Zhangjiachuan,34.9876,106.209,China,CN,Gansu,minor,,
+Guangming,28.3102,102.4119,China,CN,Sichuan,minor,,
+Chengxiang,28.5526,102.1682,China,CN,Sichuan,minor,,
+Fancheng,39.1899,113.264,China,CN,Shanxi,minor,,
+Pucheng,27.9233,118.5333,China,CN,Fujian,minor,,
+Lintan Chengguanzhen,34.6889,103.3524,China,CN,Gansu,minor,,
+Chengxian Chengguanzhen,33.7411,105.7206,China,CN,Gansu,minor,,
+Xinji,31.6232,114.874,China,CN,Henan,minor,,
+Lushi Chengguanzhen,34.0486,111.0328,China,CN,Henan,minor,,
+Kangping,42.7392,123.3494,China,CN,Liaoning,minor,,
+Sanchahe,44.9631,126.0153,China,CN,Jilin,minor,,
+Dianyang,24.7026,99.1592,China,CN,Yunnan,minor,,
+Haiyang,29.7861,118.177,China,CN,Anhui,minor,,
+Jiahe Chengguanzhen,25.5594,112.3635,China,CN,Hunan,minor,,
+Huayuan,33.4688,114.8731,China,CN,Henan,minor,,
+Xincheng,39.9868,112.4614,China,CN,Shanxi,minor,,
+Zhangfeng,24.2209,97.7868,China,CN,Yunnan,minor,,
+Luzhai,24.4975,109.7331,China,CN,Guangxi,minor,,
+Pisha,27.0706,102.7577,China,CN,Sichuan,minor,,
+Gulin,28.0422,105.8104,China,CN,Sichuan,minor,,
+Qiangezhai,36.9637,115.3782,China,CN,Hebei,minor,,
+Xiangcheng,25.4669,100.5625,China,CN,Yunnan,minor,,
+Fusui,22.6394,107.9075,China,CN,Guangxi,minor,,
+Lincheng,26.8693,109.6634,China,CN,Hunan,minor,,
+Gantang,30.2969,118.1306,China,CN,Anhui,minor,,
+Longquan,40.3638,113.6662,China,CN,Shanxi,minor,,
+Longgang,40.7215,120.9256,China,CN,Liaoning,minor,,
+Zhongshan,24.5333,111.3,China,CN,Guangxi,minor,,
+Yongqing,34.7481,106.1269,China,CN,Gansu,minor,,
+Xinglong,40.4203,117.5075,China,CN,Hebei,minor,,
+Haishiwan,36.3463,102.858,China,CN,Gansu,minor,,
+Luanchuan Chengguanzhen,33.7808,111.613,China,CN,Henan,minor,,
+Xin?€?an,32.438,118.4089,China,CN,Anhui,minor,,
+Yuanshan,24.3696,114.4896,China,CN,Guangdong,minor,,
+Zhongba,27.9543,105.0404,China,CN,Yunnan,minor,,
+Yiyang Chengguanzhen,34.5108,112.1622,China,CN,Henan,minor,,
+Biyang,29.9289,117.9464,China,CN,Anhui,minor,,
+Meixi,47.6317,129.1306,China,CN,Heilongjiang,minor,,
+Huixian Chengguanzhen,33.7683,106.0808,China,CN,Gansu,minor,,
+Wuxue Shi,29.9153,115.4143,China,CN,Hubei,minor,,
+Nanzhang Chengguanzhen,31.7839,111.8275,China,CN,Hubei,minor,,
+Zhongshu,24.5167,103.7667,China,CN,Yunnan,minor,,
+Kunyang,24.6675,102.5919,China,CN,Yunnan,minor,,
+Shilu,19.2598,109.0488,China,CN,Hainan,minor,,
+Quyang,26.5751,109.6381,China,CN,Hunan,minor,,
+Xiangkou,29.3305,107.737,China,CN,Chongqing,minor,,
+Wanzhi,31.1469,118.5671,China,CN,Anhui,minor,,
+Micheng,25.3204,100.4993,China,CN,Yunnan,minor,,
+Mucheng,35.0956,113.39,China,CN,Henan,minor,,
+Dahua,23.768,107.9841,China,CN,Guangxi,minor,,
+Xiaoduchuan,30.2911,109.4762,China,CN,Hubei,minor,,
+Huayuan,31.3142,114.0178,China,CN,Hubei,minor,,
+Zhongcheng,28.3095,105.2308,China,CN,Sichuan,minor,,
+Chongwen,35.7749,113.2508,China,CN,Shanxi,minor,,
+Pucheng,36.4136,111.095,China,CN,Shanxi,minor,,
+Lianzhou,21.6662,109.2012,China,CN,Guangxi,minor,,
+Shijiao,23.8695,113.5284,China,CN,Guangdong,minor,,
+Rongshui,25.0667,109.25,China,CN,Guangxi,minor,,
+Jingyang,32.5167,107.8833,China,CN,Shaanxi,minor,,
+Aksu,41.272,80.2409,China,CN,Xinjiang,minor,,
+Guyi,25.7778,109.6003,China,CN,Guangxi,minor,,
+Changshun,41.8914,113.9922,China,CN,Inner Mongolia,minor,,
+Chang?€?an,25.2333,109.3833,China,CN,Guangxi,minor,,
+Zhushan,29.9945,109.4791,China,CN,Hubei,minor,,
+Ziyang Chengguanzhen,32.5192,108.5323,China,CN,Shaanxi,minor,,
+Weichang,41.9476,117.7578,China,CN,Hebei,minor,,
+Juanshui,29.3031,113.8868,China,CN,Hubei,minor,,
+Tuncheng,19.3633,110.0978,China,CN,Hainan,minor,,
+Fusong,42.325,127.2726,China,CN,Jilin,minor,,
+Anyang,23.938,108.0977,China,CN,Guangxi,minor,,
+Shanhe,35.4844,108.364,China,CN,Gansu,minor,,
+Tengzhou,23.3881,110.8912,China,CN,Guangxi,minor,,
+Mingfeng,31.0617,111.6428,China,CN,Hubei,minor,,
+Wuling,39.468,114.1484,China,CN,Shanxi,minor,,
+Jingyang,30.2919,118.5425,China,CN,Anhui,minor,,
+Jichang,36.1011,110.6733,China,CN,Shanxi,minor,,
+Luxi,27.6362,114.0353,China,CN,Jiangxi,minor,,
+Gaotai Chengguanzhen,39.3446,99.8002,China,CN,Gansu,minor,,
+Wuxuan,23.6247,109.652,China,CN,Guangxi,minor,,
+Xiaojiang,22.273,109.5518,China,CN,Guangxi,minor,,
+Sanjiang,26.6749,109.196,China,CN,Guizhou,minor,,
+Yitong,43.3263,125.2973,China,CN,Jilin,minor,,
+Dayou,46.6362,126.9875,China,CN,Heilongjiang,minor,,
+Siyang,22.1684,107.9431,China,CN,Guangxi,minor,,
+Huangyuan Chengguanzhen,36.6875,101.2708,China,CN,Qinghai,minor,,
+Dafeng,23.4342,108.5983,China,CN,Guangxi,minor,,
+Qinglong,40.4056,118.9439,China,CN,Hebei,minor,,
+Fengshan,24.5833,99.9,China,CN,Yunnan,minor,,
+Donghuang,28.333,106.2156,China,CN,Guizhou,minor,,
+Xinshui,36.4784,110.7552,China,CN,Shanxi,minor,,
+Lushar,36.4842,101.5633,China,CN,Qinghai,minor,,
+Qianyang Chengguanzhen,34.6421,107.1302,China,CN,Shaanxi,minor,,
+Yaofeng,35.1386,111.2122,China,CN,Shanxi,minor,,
+Mabai,23.0128,104.4508,China,CN,Yunnan,minor,,
+Lindian,47.1826,124.8677,China,CN,Heilongjiang,minor,,
+Yuanma,25.682,101.872,China,CN,Yunnan,minor,,
+Jingyu,42.3727,126.8011,China,CN,Jilin,minor,,
+Donglan,24.5502,107.3829,China,CN,Guangxi,minor,,
+Qinhe,36.5014,112.3247,China,CN,Shanxi,minor,,
+Tiandiba,27.7018,103.2481,China,CN,Sichuan,minor,,
+Yixing,37.3376,113.5393,China,CN,Shanxi,minor,,
+Gulang,37.4666,102.8943,China,CN,Gansu,minor,,
+Longquan,24.6719,102.1613,China,CN,Yunnan,minor,,
+Temuli,27.7079,102.8077,China,CN,Sichuan,minor,,
+Huangzhai,38.0751,112.6595,China,CN,Shanxi,minor,,
+Xilin,47.4761,129.3037,China,CN,Heilongjiang,minor,,
+Rifeng,27.2973,116.9111,China,CN,Jiangxi,minor,,
+Huangshan,26.8263,100.2191,China,CN,Yunnan,minor,,
+Bayan,46.0756,127.3984,China,CN,Heilongjiang,minor,,
+Gongcheng,24.8333,110.8167,China,CN,Guangxi,minor,,
+Aletengxire,39.5799,109.7582,China,CN,Inner Mongolia,minor,,
+Huangmei,30.1923,116.025,China,CN,Hubei,minor,,
+Yongbei,26.6462,100.7807,China,CN,Yunnan,minor,,
+Qinjiang,26.3299,116.3347,China,CN,Jiangxi,minor,,
+Miyang,24.4042,103.4428,China,CN,Yunnan,minor,,
+Fenggang,27.5457,116.2146,China,CN,Jiangxi,minor,,
+Kangle,28.0956,114.4501,China,CN,Jiangxi,minor,,
+Dongping,28.3802,111.2059,China,CN,Hunan,minor,,
+Xihuachi,35.8164,108.0125,China,CN,Gansu,minor,,
+Yongdeng Chengguanzhen,36.7336,103.2593,China,CN,Gansu,minor,,
+Xiluodu,28.2442,103.6385,China,CN,Yunnan,minor,,
+Zhaxi,27.8508,104.9687,China,CN,Yunnan,minor,,
+Qingfenglin,27.7878,105.1457,China,CN,Yunnan,minor,,
+Loufan,38.0918,111.8072,China,CN,Shanxi,minor,,
+Jinjiang,19.7288,110.0085,China,CN,Hainan,minor,,
+Chaotian,32.6446,105.885,China,CN,Sichuan,minor,,
+Weizhou,31.4927,103.5849,China,CN,Sichuan,minor,,
+Lishan,31.8576,113.2951,China,CN,Hubei,minor,,
+Xinhuang,27.3736,109.1338,China,CN,Hunan,minor,,
+Xiugu,27.9113,116.7764,China,CN,Jiangxi,minor,,
+Kangbao,41.8464,114.6139,China,CN,Hebei,minor,,
+Zhenyuan Chengguanzhen,35.6775,107.1964,China,CN,Gansu,minor,,
+Luoxiong,24.8856,104.2923,China,CN,Yunnan,minor,,
+Hechuan,26.9361,114.2278,China,CN,Jiangxi,minor,,
+Zhouqu Chengguanzhen,33.7842,104.3628,China,CN,Gansu,minor,,
+Tianzhou,23.7786,106.8972,China,CN,Guangxi,minor,,
+Tianfu,37.2637,122.0523,China,CN,Shandong,minor,,
+Yilong,23.6914,102.487,China,CN,Yunnan,minor,,
+Xisa,23.45,104.7077,China,CN,Yunnan,minor,,
+Longquan,39.0845,112.1912,China,CN,Shanxi,minor,,
+Zhongcheng,28.591,103.9396,China,CN,Yunnan,minor,,
+Gaoleshan,29.6783,109.1445,China,CN,Hubei,minor,,
+Jiading,25.4295,114.928,China,CN,Jiangxi,minor,,
+Zhonghualu,35.6052,104.5967,China,CN,Gansu,minor,,
+Wumahe,47.7235,128.7928,China,CN,Heilongjiang,minor,,
+Dabu,24.6674,109.2355,China,CN,Guangxi,minor,,
+Dongchuan,25.4765,101.2847,China,CN,Yunnan,minor,,
+Miaodong,41.2807,119.4355,China,CN,Liaoning,minor,,
+Mali,23.1262,104.7409,China,CN,Yunnan,minor,,
+Dongliang?€?erzhuang,36.7271,115.2557,China,CN,Hebei,minor,,
+Lishi,24.8046,115.0333,China,CN,Jiangxi,minor,,
+Guangze,27.5435,117.3316,China,CN,Fujian,minor,,
+Zhong?€?an,25.6667,104.2333,China,CN,Yunnan,minor,,
+Pingle,24.6452,110.6431,China,CN,Guangxi,minor,,
+Jiaokui,27.5941,104.0048,China,CN,Yunnan,minor,,
+Longquan,36.6952,110.9556,China,CN,Shanxi,minor,,
+Huafeng,25.0017,117.5275,China,CN,Fujian,minor,,
+Yongning,28.5245,114.3658,China,CN,Jiangxi,minor,,
+Luqiao,29.9325,102.2316,China,CN,Sichuan,minor,,
+Linjiang,25.0517,116.4203,China,CN,Fujian,minor,,
+Zoumachang,27.8713,105.201,China,CN,Yunnan,minor,,
+Pingshan,25.5198,102.4758,China,CN,Yunnan,minor,,
+Xiaopingba,25.4949,102.5123,China,CN,Yunnan,minor,,
+Fenghuang,38.9978,112.2978,China,CN,Shanxi,minor,,
+Bama,24.1705,107.2489,China,CN,Guangxi,minor,,
+Sankoutang,27.9127,104.9505,China,CN,Yunnan,minor,,
+Longhua,41.3246,117.7344,China,CN,Hebei,minor,,
+Chicheng,40.8667,115.8333,China,CN,Hebei,minor,,
+Baiquan,42.8854,124.9583,China,CN,Jilin,minor,,
+Duru,28.5255,107.887,China,CN,Guizhou,minor,,
+Shuangjiang,24.1726,102.4005,China,CN,Yunnan,minor,,
+Qasq,40.7122,111.1289,China,CN,Inner Mongolia,minor,,
+Shancheng,26.9005,117.1631,China,CN,Fujian,minor,,
+Dangcheng,34.4279,116.3766,China,CN,Anhui,minor,,
+Fengning,41.2108,116.6404,China,CN,Hebei,minor,,
+Yezhou,30.6037,109.7233,China,CN,Hubei,minor,,
+Zhuozishan,40.8992,112.5603,China,CN,Inner Mongolia,minor,,
+Machang,26.1079,104.268,China,CN,Yunnan,minor,,
+Fengyi,31.6841,103.8538,China,CN,Sichuan,minor,,
+Hengshui,25.7,114.3167,China,CN,Jiangxi,minor,,
+Fangxian Chengguanzhen,32.055,110.7342,China,CN,Hubei,minor,,
+Dailing,47.0239,129.019,China,CN,Heilongjiang,minor,,
+Yining,29.0361,114.5636,China,CN,Jiangxi,minor,,
+Menglang,22.5621,99.9103,China,CN,Yunnan,minor,,
+Xiwanzi,40.9714,115.2725,China,CN,Hebei,minor,,
+Liaoyang,37.0798,113.3399,China,CN,Shanxi,minor,,
+Yuelejie,27.8269,103.7831,China,CN,Yunnan,minor,,
+Jinping,24.0305,104.227,China,CN,Yunnan,minor,,
+Xinning,35.4951,107.9204,China,CN,Gansu,minor,,
+Tongquan,25.4,103.5667,China,CN,Yunnan,minor,,
+Yisa,23.3323,102.4471,China,CN,Yunnan,minor,,
+Luntai,41.778,84.2465,China,CN,Xinjiang,minor,,
+Renhua,25.0913,113.7445,China,CN,Guangdong,minor,,
+Changning,35.9798,110.8221,China,CN,Shanxi,minor,,
+Jiangna,23.6092,104.3731,China,CN,Yunnan,minor,,
+Siyang,27.2116,108.745,China,CN,Guizhou,minor,,
+Gangou,26.515,103.1477,China,CN,Yunnan,minor,,
+Gufeng,26.9083,118.9819,China,CN,Fujian,minor,,
+Xuefeng,26.3572,117.1978,China,CN,Fujian,minor,,
+Baokang Chengguanzhen,31.8781,111.2564,China,CN,Hubei,minor,,
+Yanjing,28.0823,104.195,China,CN,Yunnan,minor,,
+Ziyang,29.2497,117.8547,China,CN,Jiangxi,minor,,
+Yinggen,19.0383,109.84,China,CN,Hainan,minor,,
+Jinhe,22.7667,103.25,China,CN,Yunnan,minor,,
+Ningzhou,24.1877,102.917,China,CN,Yunnan,minor,,
+Sicheng,24.4054,106.5815,China,CN,Guangxi,minor,,
+Shuiying,27.8101,104.7984,China,CN,Yunnan,minor,,
+Yujiazhai,27.8415,104.8249,China,CN,Yunnan,minor,,
+Guji,27.1696,103.2843,China,CN,Yunnan,minor,,
+Xinglongchang,28.2663,104.389,China,CN,Yunnan,minor,,
+Niupizhai,28.1115,104.3814,China,CN,Yunnan,minor,,
+Bagrax,41.9843,86.622,China,CN,Xinjiang,minor,,
+Yuyue,30.0182,113.9632,China,CN,Hubei,minor,,
+Xiuwu Chengguanzhen,35.2311,113.4381,China,CN,Henan,minor,,
+Gedong,37.8931,111.2554,China,CN,Shanxi,minor,,
+Xinjie,27.7043,103.3804,China,CN,Yunnan,minor,,
+Bao?€?an,36.829,108.7581,China,CN,Shaanxi,minor,,
+Magitang,35.9386,102.0297,China,CN,Qinghai,minor,,
+Qingyuan,35.1367,104.2221,China,CN,Gansu,minor,,
+Rende,25.5582,103.276,China,CN,Yunnan,minor,,
+Tiandeng,23.1266,107.0937,China,CN,Guangxi,minor,,
+Aihua,24.4167,100.1,China,CN,Yunnan,minor,,
+Xincheng,35.3,111.6642,China,CN,Shanxi,minor,,
+Qingyang,36.2071,113.4172,China,CN,Shanxi,minor,,
+Pingxiang,35.2079,105.2506,China,CN,Gansu,minor,,
+Guwei,34.7103,110.6571,China,CN,Shanxi,minor,,
+Xiangzhou,23.9728,109.6668,China,CN,Guangxi,minor,,
+Fengchuan,28.7,115.3833,China,CN,Jiangxi,minor,,
+Guyang,28.6139,109.9325,China,CN,Hunan,minor,,
+Long?€?an,32.4093,104.5287,China,CN,Sichuan,minor,,
+Dongmen,24.792,108.9,China,CN,Guangxi,minor,,
+Meixian,24.2838,116.0695,China,CN,Guangdong,minor,,
+Jincheng,25.5015,102.4006,China,CN,Yunnan,minor,,
+Youdian,24.8289,99.5923,China,CN,Yunnan,minor,,
+Shawan,29.4112,103.5433,China,CN,Sichuan,minor,,
+Guanyang,25.4952,111.1349,China,CN,Guangxi,minor,,
+Wanshan,27.5232,109.206,China,CN,Guizhou,minor,,
+Xincheng Chengguanzhen,24.0861,108.6526,China,CN,Guangxi,minor,,
+Huishi,35.692,105.0486,China,CN,Gansu,minor,,
+Tuanfeng,30.7136,114.9161,China,CN,Hubei,minor,,
+Ning?€?er,23.0405,101.0368,China,CN,Yunnan,minor,,
+Bujie,28.0335,105.0557,China,CN,Yunnan,minor,,
+Danfeng,24.8305,104.0082,China,CN,Yunnan,minor,,
+Tantou,28.2833,104.2667,China,CN,Yunnan,minor,,
+Longsheng,25.7936,110.0092,China,CN,Guangxi,minor,,
+Aba,32.9059,101.7063,China,CN,Sichuan,minor,,
+Debao Chengguanzhen,23.3847,106.5735,China,CN,Guangxi,minor,,
+Sunwu,49.4175,127.3155,China,CN,Heilongjiang,minor,,
+Huaiyuan Chengguanzhen,32.9589,117.1657,China,CN,Anhui,minor,,
+Bianjiang,49.5578,128.4731,China,CN,Heilongjiang,minor,,
+Daliyuan,27.1837,103.4864,China,CN,Yunnan,minor,,
+Jinshan,41.9167,118.6667,China,CN,Inner Mongolia,minor,,
+Dongping,36.499,117.996,China,CN,Shandong,minor,,
+Tongbai Chengguanzhen,32.3642,113.3964,China,CN,Henan,minor,,
+Xinhua,23.6431,105.6532,China,CN,Yunnan,minor,,
+Longtoushan Jiezi,27.1249,103.3846,China,CN,Yunnan,minor,,
+Shuigou?€?ao,27.1191,103.3534,China,CN,Yunnan,minor,,
+Pingyuan,24.7364,97.9136,China,CN,Yunnan,minor,,
+Xiqu,26.6057,101.5983,China,CN,Sichuan,minor,,
+Baocheng,18.6403,109.6994,China,CN,Hainan,minor,,
+Yaodu,30.1,117.0167,China,CN,Anhui,minor,,
+Lijiang,23.5711,102.0042,China,CN,Yunnan,minor,,
+Jinshan,25.1151,102.0983,China,CN,Yunnan,minor,,
+Peyziwat,39.4955,76.7428,China,CN,Xinjiang,minor,,
+Huanggexi,27.8541,103.8611,China,CN,Yunnan,minor,,
+Jinshi,26.418,110.8002,China,CN,Hunan,minor,,
+Cuihua,27.7377,103.8574,China,CN,Yunnan,minor,,
+Guangrao,37.2597,118.4634,China,CN,Shandong,minor,,
+Menghai,21.9532,100.3841,China,CN,Yunnan,minor,,
+Yanjing,27.427,101.5097,China,CN,Sichuan,minor,,
+Longchuan,25.1615,101.2942,China,CN,Yunnan,minor,,
+Yongding,25.1986,102.4619,China,CN,Yunnan,minor,,
+Gaojiacun,25.2586,104.0634,China,CN,Yunnan,minor,,
+Guishan,24.0503,102.0002,China,CN,Yunnan,minor,,
+Baiyang,35.8511,106.639,China,CN,Ningxia,minor,,
+Jimsar,43.9833,89.0667,China,CN,Xinjiang,minor,,
+Jinbi,25.7086,101.3368,China,CN,Yunnan,minor,,
+Yuquan,40.4426,113.9744,China,CN,Shanxi,minor,,
+Wuqi,36.9263,108.1717,China,CN,Shaanxi,minor,,
+Si?€?en,24.842,108.2716,China,CN,Guangxi,minor,,
+Zhaoping,24.1724,110.787,China,CN,Guangxi,minor,,
+Daojiang,25.496,111.5515,China,CN,Hunan,minor,,
+Taoyang,35.4013,103.8533,China,CN,Gansu,minor,,
+Jiecun,27.2244,102.9228,China,CN,Yunnan,minor,,
+Linwu Chengguanzhen,25.2325,112.5398,China,CN,Hunan,minor,,
+Nandan Chengguanzhen,25.0104,107.5571,China,CN,Guangxi,minor,,
+Tianxingchang,27.8423,103.9824,China,CN,Yunnan,minor,,
+Shuitianzhai,27.7643,105.2516,China,CN,Yunnan,minor,,
+Changpu,26.5758,110.1079,China,CN,Hunan,minor,,
+Mengcheng Chengguanzhen,33.2661,116.5661,China,CN,Anhui,minor,,
+Gengma,23.5233,99.3786,China,CN,Yunnan,minor,,
+Hobor,41.2715,112.6266,China,CN,Inner Mongolia,minor,,
+Zuitai,33.3308,105.6047,China,CN,Gansu,minor,,
+Tiexianxi,27.9119,103.8894,China,CN,Yunnan,minor,,
+N??dong,29.243,91.7724,China,CN,Tibet,minor,,
+Sanguanzhai,27.1077,103.2566,China,CN,Yunnan,minor,,
+Lianzhu,23.4084,101.7103,China,CN,Yunnan,minor,,
+Wulan,36.5654,104.684,China,CN,Gansu,minor,,
+Yuhu,26.1068,99.9829,China,CN,Yunnan,minor,,
+Chuansiba,28.3196,104.1296,China,CN,Yunnan,minor,,
+Xinjing,23.2025,106.3821,China,CN,Guangxi,minor,,
+Zhedao,24.8193,98.2763,China,CN,Yunnan,minor,,
+Laojie,26.577,103.047,China,CN,Yunnan,minor,,
+Wenquan,30.8493,115.6991,China,CN,Hubei,minor,,
+Luojiang,31.305,104.5048,China,CN,Sichuan,minor,,
+Huazangsi,36.9765,103.1352,China,CN,Gansu,minor,,
+Xiaopu,25.2392,111.3166,China,CN,Hunan,minor,,
+Xiaping,26.7314,114.2703,China,CN,Jiangxi,minor,,
+Fengcheng,24.5712,107.0424,China,CN,Guangxi,minor,,
+Yilan,46.3162,129.5545,China,CN,Heilongjiang,minor,,
+Taocheng,22.8794,107.1565,China,CN,Guangxi,minor,,
+Jiecun,27.3557,102.9827,China,CN,Yunnan,minor,,
+Nansha,23.1804,102.8333,China,CN,Yunnan,minor,,
+Jinping,24.4337,100.8199,China,CN,Yunnan,minor,,
+Xuri,47.7268,128.8999,China,CN,Heilongjiang,minor,,
+Togrog Ul,40.7867,113.205,China,CN,Inner Mongolia,minor,,
+Yancheng,38.9154,111.8693,China,CN,Shanxi,minor,,
+Qinghua,35.165,113.0617,China,CN,Henan,minor,,
+Honggang,46.4012,124.8832,China,CN,Heilongjiang,minor,,
+Daxing,22.9692,102.4061,China,CN,Yunnan,minor,,
+Zhujiacun,26.3204,104.3957,China,CN,Yunnan,minor,,
+Daihai,40.5211,112.4931,China,CN,Inner Mongolia,minor,,
+Jinchang,38.4981,112.9236,China,CN,Shanxi,minor,,
+Liulin,34.5897,103.5042,China,CN,Gansu,minor,,
+Xuejiawan,39.8668,111.2208,China,CN,Inner Mongolia,minor,,
+Shuangshipu,33.9171,106.5247,China,CN,Shaanxi,minor,,
+Nanzhao,25.2222,100.3034,China,CN,Yunnan,minor,,
+Inder,46.7,122.9333,China,CN,Inner Mongolia,minor,,
+Uchturpan,41.1517,79.225,China,CN,Xinjiang,minor,,
+Yongfu,25.004,109.9818,China,CN,Guangxi,minor,,
+Shuimo,27.3019,103.4143,China,CN,Yunnan,minor,,
+Xinghe Chengguanzhen,40.8756,113.8839,China,CN,Inner Mongolia,minor,,
+Tokkuztara,43.4667,82.1489,China,CN,Xinjiang,minor,,
+Daxing,27.2637,100.8639,China,CN,Yunnan,minor,,
+Nanjian,25.048,100.5322,China,CN,Yunnan,minor,,
+Taikang,46.8613,124.442,China,CN,Heilongjiang,minor,,
+Shangjie,25.6711,99.9802,China,CN,Yunnan,minor,,
+Qiaowa,27.9308,101.2778,China,CN,Sichuan,minor,,
+Mengdong,23.1615,99.2023,China,CN,Yunnan,minor,,
+Jinhua,26.538,99.9172,China,CN,Yunnan,minor,,
+Shanjiao,27.3223,103.0684,China,CN,Yunnan,minor,,
+Sanjiang,24.7206,112.2944,China,CN,Guangdong,minor,,
+Xinjie,28.1485,103.9666,China,CN,Yunnan,minor,,
+Longshan,24.6009,98.7042,China,CN,Yunnan,minor,,
+Liangdang Chengguanzhen,33.9097,106.3022,China,CN,Gansu,minor,,
+Jiezishang,26.9894,103.3447,China,CN,Yunnan,minor,,
+Laodianzi,26.9308,103.2922,China,CN,Yunnan,minor,,
+Jinping,35.3144,107.0292,China,CN,Gansu,minor,,
+Hongwansi,38.8351,99.5986,China,CN,Gansu,minor,,
+Qili,30.1991,117.478,China,CN,Anhui,minor,,
+Yacha,19.2306,109.4475,China,CN,Hainan,minor,,
+Longbo,25.9292,111.6222,China,CN,Hunan,minor,,
+Ulan Hua,41.5131,111.6964,China,CN,Inner Mongolia,minor,,
+Jianning,26.8345,116.8385,China,CN,Fujian,minor,,
+Goujie,25.7424,102.8008,China,CN,Yunnan,minor,,
+Hekou,22.5385,104.0111,China,CN,Yunnan,minor,,
+Lanyi,38.7198,111.5978,China,CN,Shanxi,minor,,
+Qiancheng,27.185,109.7654,China,CN,Hunan,minor,,
+Leidaba,27.9572,104.3387,China,CN,Yunnan,minor,,
+Longgang,35.6894,112.158,China,CN,Shanxi,minor,,
+Shangba,27.6296,103.3045,China,CN,Yunnan,minor,,
+Lingcheng,33.5377,117.5336,China,CN,Anhui,minor,,
+Maoshanjie,25.6678,102.4991,China,CN,Yunnan,minor,,
+Baokang,44.1197,123.3047,China,CN,Inner Mongolia,minor,,
+Laojie,25.4483,99.5561,China,CN,Yunnan,minor,,
+Guye,39.7305,118.4408,China,CN,Hebei,minor,,
+Gonghe,25.2558,101.5186,China,CN,Yunnan,minor,,
+Doushaguan,28.048,104.1272,China,CN,Yunnan,minor,,
+Xingguo,29.9225,115.3021,China,CN,Hubei,minor,,
+Chengfangqiao,25.7573,103.831,China,CN,Yunnan,minor,,
+Dedang,24.0118,99.2396,China,CN,Yunnan,minor,,
+Yueyang,36.2896,111.9145,China,CN,Shanxi,minor,,
+Fucheng,36.1468,112.2335,China,CN,Shanxi,minor,,
+Shirong,29.3509,102.6525,China,CN,Sichuan,minor,,
+Chensan,36.7367,115.1343,China,CN,Hebei,minor,,
+Beishan,45.8162,130.9283,China,CN,Heilongjiang,minor,,
+Shanzidi,26.5538,103.2604,China,CN,Yunnan,minor,,
+Gecheng,31.9486,108.6607,China,CN,Chongqing,minor,,
+Liancheng,24.0519,105.075,China,CN,Yunnan,minor,,
+Xiangshui,35.4769,106.3311,China,CN,Ningxia,minor,,
+Qiaoshang,27.9427,105.1648,China,CN,Yunnan,minor,,
+Yongding,26.0412,101.6864,China,CN,Yunnan,minor,,
+Qianyou,33.6775,109.1233,China,CN,Shaanxi,minor,,
+Huquan,39.7954,114.183,China,CN,Shanxi,minor,,
+Dasongshu,26.1368,103.5734,China,CN,Yunnan,minor,,
+Lizhi,29.7032,107.3952,China,CN,Chongqing,minor,,
+Shuitou,36.9731,111.2091,China,CN,Shanxi,minor,,
+Zhongxin,26.6167,101.2715,China,CN,Yunnan,minor,,
+Xinfa,28.8307,104.3208,China,CN,Sichuan,minor,,
+Xishaqiao,28.3025,103.9848,China,CN,Yunnan,minor,,
+Liupai,25.04,107.1732,China,CN,Guangxi,minor,,
+Nayun,22.332,99.5613,China,CN,Yunnan,minor,,
+Yunhe,26.525,100.1978,China,CN,Yunnan,minor,,
+Shuangxi,28.863,115.3519,China,CN,Jiangxi,minor,,
+Meilin,25.8731,115.0108,China,CN,Jiangxi,minor,,
+Jinding,26.439,99.4406,China,CN,Yunnan,minor,,
+Jianxincun,25.8389,104.1195,China,CN,Yunnan,minor,,
+Dongxing,45.3609,130.7868,China,CN,Heilongjiang,minor,,
+Laojiezi,26.8646,103.1371,China,CN,Yunnan,minor,,
+Lingquan,36.9995,110.844,China,CN,Shanxi,minor,,
+Shiziba,27.9796,104.1806,China,CN,Yunnan,minor,,
+Zhihe,36.78,110.6396,China,CN,Shanxi,minor,,
+Gaolan Chengguanzhen,36.3347,103.9456,China,CN,Gansu,minor,,
+Mengmeng,23.465,99.8021,China,CN,Yunnan,minor,,
+Zhonghechang,28.1538,104.0984,China,CN,Yunnan,minor,,
+Aitianba,28.1667,104.1667,China,CN,Yunnan,minor,,
+Zhongcun,26.1346,102.6811,China,CN,Yunnan,minor,,
+Xiangyang,26.7599,103.2539,China,CN,Yunnan,minor,,
+Hepingyizu,29.2469,103.0825,China,CN,Sichuan,minor,,
+Xilin,24.4988,105.0938,China,CN,Guangxi,minor,,
+Baiyin Chagan,41.4533,113.1833,China,CN,Inner Mongolia,minor,,
+Tongle,24.8476,106.5764,China,CN,Guangxi,minor,,
+Tongyang,29.6705,114.5969,China,CN,Hubei,minor,,
+Moshiyi,27.8277,103.7283,China,CN,Yunnan,minor,,
+Nahaping,28.4318,103.8578,China,CN,Yunnan,minor,,
+Sujiaying,25.6316,102.5847,China,CN,Yunnan,minor,,
+Yongchang Chengguanzhen,38.2705,102.0202,China,CN,Gansu,minor,,
+Tianshan,43.8874,120.0934,China,CN,Inner Mongolia,minor,,
+Beiyingzi,40.7607,119.1179,China,CN,Liaoning,minor,,
+Xincun,27.6718,103.8699,China,CN,Yunnan,minor,,
+Tieyingzi,41.7786,119.8798,China,CN,Liaoning,minor,,
+Zhenlai,45.8495,123.2973,China,CN,Jilin,minor,,
+Tekes,43.1903,81.7778,China,CN,Xinjiang,minor,,
+Ziyuan,26.0367,110.6406,China,CN,Guangxi,minor,,
+Zagunao,31.4462,103.1766,China,CN,Sichuan,minor,,
+Dongfeng,42.6403,125.5118,China,CN,Jilin,minor,,
+Tuquan,45.403,121.6046,China,CN,Inner Mongolia,minor,,
+Ganzi,31.6274,99.9941,China,CN,Sichuan,minor,,
+Jin?€?an,32.6394,103.5968,China,CN,Sichuan,minor,,
+Wanhechang,27.7759,103.5095,China,CN,Yunnan,minor,,
+Taipingdian,28.5593,104.222,China,CN,Yunnan,minor,,
+Hanyuan,32.834,106.2504,China,CN,Shaanxi,minor,,
+Lubei,44.6087,120.9556,China,CN,Inner Mongolia,minor,,
+Gufu,31.3621,110.7292,China,CN,Hubei,minor,,
+Jiuchenggong,34.6787,107.7876,China,CN,Shaanxi,minor,,
+Zongyang,30.6989,117.2042,China,CN,Anhui,minor,,
+Yuping,22.9769,103.7108,China,CN,Yunnan,minor,,
+Fuyu,47.7976,124.4573,China,CN,Heilongjiang,minor,,
+Yuanjiazhuang,33.5232,107.983,China,CN,Shaanxi,minor,,
+Dianweijie,25.9075,102.8544,China,CN,Yunnan,minor,,
+Haomen,37.3619,101.5871,China,CN,Qinghai,minor,,
+Laojiezi,26.1487,102.5592,China,CN,Yunnan,minor,,
+Laofangzi,26.6716,103.1883,China,CN,Yunnan,minor,,
+Muzeng,26.0524,102.4793,China,CN,Yunnan,minor,,
+Yopurga,39.2394,76.7643,China,CN,Xinjiang,minor,,
+Nilka,43.7833,82.3983,China,CN,Xinjiang,minor,,
+Furong,26.45,114.7667,China,CN,Jiangxi,minor,,
+Huamachi,37.7852,107.4032,China,CN,Ningxia,minor,,
+Hanbin,32.8897,108.9044,China,CN,Shaanxi,minor,,
+Jiezi,26.7893,102.9919,China,CN,Yunnan,minor,,
+Baohe,27.1958,99.3248,China,CN,Yunnan,minor,,
+Songbai,31.7568,110.6725,China,CN,Hubei,minor,,
+Muping,30.3704,102.8122,China,CN,Sichuan,minor,,
+Changping,28.2078,103.855,China,CN,Yunnan,minor,,
+Sanlei,38.6264,103.0883,China,CN,Gansu,minor,,
+Tuodian,24.6667,101.6333,China,CN,Yunnan,minor,,
+Yinla,29.5773,94.483,China,CN,Tibet,minor,,
+Haliut,41.5561,108.5197,China,CN,Inner Mongolia,minor,,
+Mengsuo,22.602,99.5514,China,CN,Yunnan,minor,,
+Panlian,26.8878,102.1084,China,CN,Sichuan,minor,,
+Namka,29.65,90.9833,China,CN,Tibet,minor,,
+Xindou,31.3965,100.6785,China,CN,Sichuan,minor,,
+Shangpa,26.9195,98.9516,China,CN,Yunnan,minor,,
+Weiyuan,23.4683,100.6835,China,CN,Yunnan,minor,,
+Huangjingba,28.0136,103.9985,China,CN,Yunnan,minor,,
+Xiaotiechang,26.2838,103.6386,China,CN,Yunnan,minor,,
+Enle,23.9605,101.0826,China,CN,Yunnan,minor,,
+Wenxian Chengguanzhen,32.9471,104.6814,China,CN,Gansu,minor,,
+Shangtianba,28.0312,103.8618,China,CN,Yunnan,minor,,
+Xinling,31.0253,110.3182,China,CN,Hubei,minor,,
+Jiaoxiyakou,26.1283,102.45,China,CN,Yunnan,minor,,
+Fengshan,30.8871,115.4209,China,CN,Hubei,minor,,
+Wuxi,26.5844,111.859,China,CN,Hunan,minor,,
+Shuigou,26.9381,103.0396,China,CN,Yunnan,minor,,
+Labuleng,35.2012,102.5212,China,CN,Gansu,minor,,
+Nansan,23.7957,98.804,China,CN,Yunnan,minor,,
+Qingquan,38.7931,101.0887,China,CN,Gansu,minor,,
+Xianghu,25.8,116,China,CN,Jiangxi,minor,,
+Xinyuan,43.4511,83.1478,China,CN,Xinjiang,minor,,
+Dongqu,37.9202,112.2002,China,CN,Shanxi,minor,,
+Wufeng,30.2,110.6908,China,CN,Hubei,minor,,
+Pengjia Zhaizi,27.6083,103.5271,China,CN,Yunnan,minor,,
+Longzhou,22.3997,106.7897,China,CN,Guangxi,minor,,
+Sangpi,28.9339,99.7999,China,CN,Sichuan,minor,,
+Zuitou,34.0622,107.3127,China,CN,Shaanxi,minor,,
+Gaocheng,29.9881,100.2694,China,CN,Sichuan,minor,,
+Kouqian,43.6391,126.4578,China,CN,Jilin,minor,,
+Daqin Tal,42.8872,120.6747,China,CN,Inner Mongolia,minor,,
+Shimen,25.8948,99.4294,China,CN,Yunnan,minor,,
+Long?€?an Chengxiangzhen,23.2071,107.6509,China,CN,Guangxi,minor,,
+Jinta,39.9833,98.8667,China,CN,Gansu,minor,,
+Napo Chengxiangzhen,23.4794,105.7916,China,CN,Guangxi,minor,,
+Nanpiao,41.0982,120.7479,China,CN,Liaoning,minor,,
+Rulin,26.347,110.2663,China,CN,Hunan,minor,,
+Tangyuan,46.7264,129.8997,China,CN,Heilongjiang,minor,,
+Pujiawan,26.1855,102.2915,China,CN,Yunnan,minor,,
+Leli,24.3541,106.2437,China,CN,Guangxi,minor,,
+Jinshan,41.0335,110.052,China,CN,Inner Mongolia,minor,,
+Mengla,21.4686,101.5507,China,CN,Yunnan,minor,,
+Xianshui,30.9915,101.127,China,CN,Sichuan,minor,,
+Chengguan,39.9072,111.6733,China,CN,Inner Mongolia,minor,,
+Jinxiu,24.1372,110.1801,China,CN,Guangxi,minor,,
+Quxar,29.1,87.65,China,CN,Tibet,minor,,
+Liuba,33.6186,106.9189,China,CN,Shaanxi,minor,,
+Qabqa,36.2814,100.6131,China,CN,Qinghai,minor,,
+Wudan,42.9344,119.0239,China,CN,Inner Mongolia,minor,,
+Shuangjiang,26.1547,109.7138,China,CN,Hunan,minor,,
+Qiongxi,32.7927,102.5429,China,CN,Sichuan,minor,,
+Chatang,29.2422,91.3322,China,CN,Tibet,minor,,
+Minquan Chengguanzhen,34.6645,115.133,China,CN,Henan,minor,,
+Menglie,22.5597,101.8679,China,CN,Yunnan,minor,,
+Nankengzai,26.2833,117.8833,China,CN,Fujian,minor,,
+Rulong,30.9412,100.3109,China,CN,Sichuan,minor,,
+Kulun,42.7306,121.7756,China,CN,Inner Mongolia,minor,,
+Nagqu,31.403,92.003,China,CN,Tibet,minor,,
+Daban,43.5333,118.6667,China,CN,Inner Mongolia,minor,,
+Qingkou,34.8483,119.1084,China,CN,Jiangsu,minor,,
+Saziba,25.8673,102.6185,China,CN,Yunnan,minor,,
+Tarrong,29.4167,90.25,China,CN,Tibet,minor,,
+Jiantang,27.8224,99.7693,China,CN,Yunnan,minor,,
+Sanjiaocheng,36.8908,100.9997,China,CN,Qinghai,minor,,
+Qapqal,43.8019,81.0872,China,CN,Xinjiang,minor,,
+Kaji,26.0285,102.7888,China,CN,Yunnan,minor,,
+Qiaozhuang,32.5903,105.2334,China,CN,Sichuan,minor,,
+Hoxut,42.2586,86.8578,China,CN,Xinjiang,minor,,
+Hexi,37.3672,97.3633,China,CN,Qinghai,minor,,
+Songmai,28.7147,99.2863,China,CN,Sichuan,minor,,
+Tongzilin,26.7004,101.8513,China,CN,Sichuan,minor,,
+Babao,38.1806,100.2403,China,CN,Qinghai,minor,,
+Tongyu,44.8216,123.0747,China,CN,Jilin,minor,,
+Meilisi,47.315,123.7544,China,CN,Heilongjiang,minor,,
+Luanping,40.9167,117.2833,China,CN,Hebei,minor,,
+Jinzhu,29.0419,100.2948,China,CN,Sichuan,minor,,
+Shangtang,28.1554,120.6882,China,CN,Zhejiang,minor,,
+Gabasumdo,35.2589,100.5499,China,CN,Qinghai,minor,,
+Meixing,30.9991,102.3602,China,CN,Sichuan,minor,,
+Norbukyungz??,29.1667,89.25,China,CN,Tibet,minor,,
+Bainang,29.109,89.2589,China,CN,Tibet,minor,,
+Dianga,34.0636,103.2136,China,CN,Gansu,minor,,
+Duchang,29.266,116.1863,China,CN,Jiangxi,minor,,
+Pagnag,32.2699,91.681,China,CN,Tibet,minor,,
+Namling,29.6853,89.0956,China,CN,Tibet,minor,,
+Xiaqiaotou,27.1853,100.0434,China,CN,Yunnan,minor,,
+Hejing,42.3164,86.3828,China,CN,Xinjiang,minor,,
+Xing?€?an,50.2477,127.4932,China,CN,Heilongjiang,minor,,
+Luhua,32.0671,102.9879,China,CN,Sichuan,minor,,
+Batang,30.0066,99.1072,China,CN,Sichuan,minor,,
+Fuliang,29.3764,117.2467,China,CN,Jiangxi,minor,,
+Uliastai,45.55,116.8333,China,CN,Inner Mongolia,minor,,
+Chenggan,26.1454,102.803,China,CN,Yunnan,minor,,
+Caohe,30.2297,115.4335,China,CN,Hubei,minor,,
+Luxu,23.2212,108.803,China,CN,Guangxi,minor,,
+Niya,37.0655,82.6893,China,CN,Xinjiang,minor,,
+Duolun,42.1871,116.4891,China,CN,Inner Mongolia,minor,,
+Maizhokunggar,29.8333,91.7333,China,CN,Tibet,minor,,
+Zaindainxoi,31.85,93.6667,China,CN,Tibet,minor,,
+Qira,37.0285,80.8029,China,CN,Xinjiang,minor,,
+Guma,37.6168,78.2809,China,CN,Xinjiang,minor,,
+Jianshe,31.2159,98.8287,China,CN,Sichuan,minor,,
+Xiasi,32.29,105.5133,China,CN,Sichuan,minor,,
+Xangda,32.2055,96.4781,China,CN,Qinghai,minor,,
+Gengqing,31.8165,98.5958,China,CN,Sichuan,minor,,
+Jimai,33.7515,99.6482,China,CN,Qinghai,minor,,
+Mashan,45.2051,130.5261,China,CN,Heilongjiang,minor,,
+Cikai,27.7634,98.711,China,CN,Yunnan,minor,,
+Kaiwen,27.1561,99.8348,China,CN,Yunnan,minor,,
+Konggar,29.2939,90.9871,China,CN,Tibet,minor,,
+Ramai,29.2447,90.8477,China,CN,Tibet,minor,,
+Chinggil,46.6672,90.3786,China,CN,Xinjiang,minor,,
+Hekou,37.8846,118.5266,China,CN,Shandong,minor,,
+Yumen,40.2833,97.2,China,CN,Gansu,minor,,
+Zequ,35.0366,101.4662,China,CN,Qinghai,minor,,
+Hekou,30.0323,101.0054,China,CN,Sichuan,minor,,
+Toksun,42.7936,88.6416,China,CN,Xinjiang,minor,,
+Geluwan,27.3737,99.6561,China,CN,Yunnan,minor,,
+Jiangzhou,22.4116,107.3421,China,CN,Guangxi,minor,,
+Puting,29.3313,115.7575,China,CN,Jiangxi,minor,,
+Y??ndum,30.6572,97.5731,China,CN,Tibet,minor,,
+Q??x??,29.3564,90.7323,China,CN,Tibet,minor,,
+Xia?€?er,29.0059,101.5144,China,CN,Sichuan,minor,,
+Rangke,32.2678,100.9791,China,CN,Sichuan,minor,,
+Gyitang,28.4333,92.45,China,CN,Tibet,minor,,
+Lh??nz??,28.4122,92.4617,China,CN,Tibet,minor,,
+Shuibian,27.608,115.3264,China,CN,Jiangxi,minor,,
+Xiayang,26.4889,113.768,China,CN,Hunan,minor,,
+Biru,31.4832,93.6774,China,CN,Tibet,minor,,
+Samdo,31.2143,96.5994,China,CN,Tibet,minor,,
+Ming?€?antu,42.3028,114.9933,China,CN,Inner Mongolia,minor,,
+Dangquka,30.4859,91.1026,China,CN,Tibet,minor,,
+Damxung,30.5333,91.1,China,CN,Tibet,minor,,
+Biancheng,40.6785,122.3623,China,CN,Liaoning,minor,,
+Qamq??nxoi,29.2667,89.9,China,CN,Tibet,minor,,
+Xinyuan,37.3,99,China,CN,Qinghai,minor,,
+D??q??n,29.6667,91.35,China,CN,Tibet,minor,,
+Ningshan Chengguanzhen,33.3315,108.3069,China,CN,Shaanxi,minor,,
+Nyinma,34.0007,102.0713,China,CN,Gansu,minor,,
+Qianguo,45.1171,124.8568,China,CN,Jilin,minor,,
+X??gar,28.6333,87.0833,China,CN,Tibet,minor,,
+Zito,30.7389,95.8361,China,CN,Tibet,minor,,
+Bayan Huxu,45.15,121.4,China,CN,Inner Mongolia,minor,,
+Baima,30.0575,96.9185,China,CN,Tibet,minor,,
+Bailingmiao,41.6919,110.4356,China,CN,Inner Mongolia,minor,,
+Seke,32.2704,100.3317,China,CN,Sichuan,minor,,
+Ziketan,35.5862,99.9879,China,CN,Qinghai,minor,,
+Chumba,29.0833,92.6,China,CN,Tibet,minor,,
+Moluo,30.8039,98.1004,China,CN,Tibet,minor,,
+Molo,30.86,98.273,China,CN,Tibet,minor,,
+Khuma,51.7167,126.6333,China,CN,Heilongjiang,minor,,
+Xireg,36.9187,98.4446,China,CN,Qinghai,minor,,
+S??raitang,32.9352,100.7376,China,CN,Qinghai,minor,,
+Meishan,31.7291,115.9124,China,CN,Anhui,minor,,
+Fengxiang,47.5755,130.8231,China,CN,Heilongjiang,minor,,
+Gartog,29.6845,98.5947,China,CN,Tibet,minor,,
+Hongshui,38.4246,100.7926,China,CN,Gansu,minor,,
+Wangda,29.6744,97.8374,China,CN,Tibet,minor,,
+Xinli,39.8442,108.7347,China,CN,Inner Mongolia,minor,,
+Racaka,31.4,96.5167,China,CN,Tibet,minor,,
+Dazhasi,33.578,102.9641,China,CN,Sichuan,minor,,
+Qonggyaixoi,29.0277,91.6827,China,CN,Tibet,minor,,
+Kalpin,40.5275,79.0658,China,CN,Xinjiang,minor,,
+Fendou,47.4095,129.4282,China,CN,Heilongjiang,minor,,
+Youganning,34.7356,101.6114,China,CN,Qinghai,minor,,
+Domartang,30.939,94.6891,China,CN,Tibet,minor,,
+Coka,30.9054,94.6695,China,CN,Tibet,minor,,
+Qusum,29.0657,92.193,China,CN,Tibet,minor,,
+Nongchangbalian,36.3656,109.6224,China,CN,Shaanxi,minor,,
+Zhaosu,43.1228,81.0758,China,CN,Xinjiang,minor,,
+Zhuxi Chengguanzhen,32.3257,109.7234,China,CN,Hubei,minor,,
+Sahuteng,32.8942,95.2809,China,CN,Qinghai,minor,,
+Gyaij??pozhangg??,33.8548,95.6154,China,CN,Qinghai,minor,,
+Dabancheng,43.3583,88.32,China,CN,Xinjiang,minor,,
+Xin Bulag,42.2375,113.8364,China,CN,Inner Mongolia,minor,,
+Akqi,40.9415,78.4438,China,CN,Xinjiang,minor,,
+Burqin,47.7059,86.8613,China,CN,Xinjiang,minor,,
+Zhamog,29.8665,95.759,China,CN,Tibet,minor,,
+Saihan Tal,42.7358,112.6514,China,CN,Inner Mongolia,minor,,
+D??ngq??n,31.4115,95.5842,China,CN,Tibet,minor,,
+Nangxian,29.047,93.0879,China,CN,Tibet,minor,,
+Kangmar,28.5595,89.6801,China,CN,Tibet,minor,,
+Urho,46.1165,85.6777,China,CN,Xinjiang,minor,,
+Chuqung,33.3667,97.1333,China,CN,Qinghai,minor,,
+Bengshutang,28.0366,99.5084,China,CN,Yunnan,minor,,
+G??ding,29.3667,88.25,China,CN,Tibet,minor,,
+Yuegai,34.1291,95.8001,China,CN,Qinghai,minor,,
+Jomda,31.4962,98.2117,China,CN,Tibet,minor,,
+Nixia,32.975,98.0959,China,CN,Sichuan,minor,,
+Bieligutai,44.0303,114.9804,China,CN,Inner Mongolia,minor,,
+Tungdor,29.2,94.0833,China,CN,Tibet,minor,,
+Nanggarz??,28.9714,90.397,China,CN,Tibet,minor,,
+Juegang,32.3174,121.1855,China,CN,Jiangsu,minor,,
+Shengping,28.4856,98.9114,China,CN,Yunnan,minor,,
+Xiasima,27.494,88.953,China,CN,Tibet,minor,,
+Rongmei,29.8933,110.0261,China,CN,Hubei,minor,,
+Chaoyang,48.8864,130.4032,China,CN,Heilongjiang,minor,,
+Shiquanhe,32.5012,80.0976,China,CN,Tibet,minor,,
+Dartang,31.9333,94,China,CN,Tibet,minor,,
+Laxi,31.9212,94.0476,China,CN,Tibet,minor,,
+Ulan,39.0937,107.9802,China,CN,Inner Mongolia,minor,,
+Dawu,34.4662,100.2299,China,CN,Qinghai,minor,,
+Mainling,29.2177,94.2133,China,CN,Tibet,minor,,
+Shuguang,47.7241,128.674,China,CN,Heilongjiang,minor,,
+Sa?€?gya,28.9167,88.05,China,CN,Tibet,minor,,
+Nierong,32.1131,92.2957,China,CN,Hebei,minor,,
+Wucheng,31.2837,117.9019,China,CN,Anhui,minor,,
+Baishan,23.7135,108.1709,China,CN,Guangxi,minor,,
+M??dog,29.3133,95.3074,China,CN,Tibet,minor,,
+Yanshou,45.4532,128.3268,China,CN,Heilongjiang,minor,,
+Xarlung,29.9,93.3,China,CN,Tibet,minor,,
+Gyamotang,31.5333,95.4333,China,CN,Tibet,minor,,
+Ri?€?ngoin,29.605,89.005,China,CN,Tibet,minor,,
+Huzhong,51.95,123.6667,China,CN,Heilongjiang,minor,,
+Damxoi,28.4667,91.55,China,CN,Tibet,minor,,
+Lh??nzhub,30.201,91.301,China,CN,Tibet,minor,,
+Xayar,41.23,82.8058,China,CN,Xinjiang,minor,,
+Gyangkar,28.4,87.8,China,CN,Tibet,minor,,
+Mangqu,35.5857,100.7524,China,CN,Qinghai,minor,,
+Shiguai,40.7058,110.2856,China,CN,Inner Mongolia,minor,,
+Huichang,25.6007,115.778,China,CN,Jiangxi,minor,,
+Gangba,28.2166,88.4743,China,CN,Tibet,minor,,
+Ngamring,29.2333,87.1667,China,CN,Tibet,minor,,
+Kambaxoi,28.3,88.5333,China,CN,Tibet,minor,,
+Zhongcun,27.7981,100.2054,China,CN,Yunnan,minor,,
+Qian?€?an,44.9932,124.0581,China,CN,Jilin,minor,,
+Ruoqiang,39.02,88.1647,China,CN,Xinjiang,minor,,
+Lazanzhong,28.2212,99.7322,China,CN,Yunnan,minor,,
+Lixin Chengguanzhen,33.1433,116.2272,China,CN,Anhui,minor,,
+Hongliuwan,39.6319,94.3369,China,CN,Gansu,minor,,
+Wenquan,34.9353,113.0733,China,CN,Henan,minor,,
+Xinlin,51.7,124.3333,China,CN,Heilongjiang,minor,,
+Congd??,28.15,85.9667,China,CN,Tibet,minor,,
+Baiyu,28.5766,99.672,China,CN,Yunnan,minor,,
+Hongshan,47.9758,129.022,China,CN,Heilongjiang,minor,,
+Mandalt,43.8403,113.7156,China,CN,Inner Mongolia,minor,,
+Dalain Hob,41.9653,101.0639,China,CN,Inner Mongolia,minor,,
+Chugq??nsumdo,33.4333,101.4333,China,CN,Qinghai,minor,,
+Pagq??n,33.9686,99.901,China,CN,Qinghai,minor,,
+Zhowagoin,28.6591,97.4506,China,CN,Tibet,minor,,
+Gyigang,28.6667,97.5167,China,CN,Tibet,minor,,
+Burang,30.3013,81.1746,China,CN,Tibet,minor,,
+Qajort??bu,30.9333,88.6333,China,CN,Tibet,minor,,
+Ehen Hudag,39.2,101.6667,China,CN,Inner Mongolia,minor,,
+Youhao,47.8531,128.8357,China,CN,Heilongjiang,minor,,
+Zhad??n,29.65,84.1667,China,CN,Tibet,minor,,
+Shaliuhe,37.326,100.1344,China,CN,Qinghai,minor,,
+Bala Ga?€?er Gaole,44.5915,117.6237,China,CN,Inner Mongolia,minor,,
+Zhize,21.7554,111.6143,China,CN,Guangdong,minor,,
+Zongga,29,85.25,China,CN,Tibet,minor,,
+Pubu,31.3962,90.0096,China,CN,Tibet,minor,,
+Sangri,29.3,92.0833,China,CN,Tibet,minor,,
+Dangchengwan,39.5001,95.0408,China,CN,Gansu,minor,,
+Shangdu,42.25,116.008,China,CN,Inner Mongolia,minor,,
+Qagan Us,36.3972,98.0122,China,CN,Qinghai,minor,,
+Machali,34.9333,98.2333,China,CN,Qinghai,minor,,
+Luring,32.2667,84.2,China,CN,Tibet,minor,,
+Gangsha,30.977,81.2875,China,CN,Tibet,minor,,
+Toding,31.4806,79.798,China,CN,Tibet,minor,,
+Binzhou,45.7528,127.4799,China,CN,Heilongjiang,minor,,
+Maindong,31.3333,85.4167,China,CN,Tibet,minor,,
+Geji,32.3954,81.1397,China,CN,Tibet,minor,,
+Lumaka,33.0862,80.3678,China,CN,Tibet,minor,,
+Lhozhag,28.39,90.8598,China,CN,Tibet,minor,,
+Zhabu,33.1189,83.3038,China,CN,Tibet,minor,,
+S??rkang,32.2167,92.1167,China,CN,Tibet,minor,,
+Zangkaxa,33.7129,80.3768,China,CN,Tibet,minor,,
+Xagmakajor,31.4944,82.3324,China,CN,Tibet,minor,,
+Qumod??,32.2008,79.1845,China,CN,Tibet,minor,,
+Rutog,33.3842,79.7298,China,CN,Tibet,minor,,
+Langjiu,32.3595,80.4268,China,CN,Tibet,minor,,
+Shahe,39.1416,100.1784,China,CN,Gansu,minor,,
+Jisegumen,34.0642,80.7712,China,CN,Tibet,minor,,
+Toli,45.9386,83.6006,China,CN,Xinjiang,minor,,
+Xoixar,27.903,91.903,China,CN,Tibet,minor,,
+Xilinji,52.9906,123.2352,China,CN,Heilongjiang,minor,,
+Kaohsiung,22.63,120.255,,,,must,1519711,
+Hualien,23.99,121.61,,,,must,350468,
+Tainan,22.99,120.227,,,,must,771235,
+Miaoli,24.57,120.8,,,,must,,
+Taichung,24.14,120.67,,,,must,1040725,
+Taipei,25.1054,121.59,,,,must,7871900,
+Kowloon,22.3,114.18,,,,must,2019544,
+Hongkong,22.3,114.177,,,,must,7507000,
+Victoria,22.27,114.14,,,,must,14190,
+Causeway,22.28,114.191,,,,must,21559,
+Kwai,22.37,114.1234,,,,must,9000,
+Macau,22.21,113.55,,,,must,700000,
