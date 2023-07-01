@@ -10,13 +10,17 @@ This code is open source and encourages creative exploration. Feel free to use i
 
 Let your stress melt away with this hypnotic animation. Breath visualizes a calming, zooming green dot that effortlessly ebbs and flows. Use it as an aid in your meditation practice; follow the rhythm of the dot as you attune your breath to its tranquil motion. Let it guide you to a state of deep calm and mindfulness.
 
-Take a look at the animation here: ![Breath](./breath/breath.gif)
+Take a look at the animation here: 
+
+![Breath](./breath/breath.gif)
 
 ### China City Connection
 
 Experience the pulsating energy of a city's expansion in China City. This animation features dots spreading out from a central location, ultimately spanning across the entire representation of a country. Witness the spread of activity from a solitary hub to the bustling buzz of a nationwide network. 
 
-View the dynamic spread here: ![China City](./china-city/china-city.gif)
+View the dynamic spread here: 
+
+![China City](./china-city/china-city.gif)
 
 ## Getting Started 
 
