@@ -6,19 +6,19 @@ Welcome to my repository of Processing p5.js artwork! This collection showcases 
 
 | Preview | Title | Link |
 |---------|-------|------|
-| <img src="breath/demo.gif" width="200" height="200"> | Breath | [View Code](breath) |
-| <img src="china_city_connection/demo.gif" width="200" height="200"> | China City Connection | [View Code](china_city_connection) |
-| <img src="fractal_tree_unfolding/demo.png" width="200" height="200"> | Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
-| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="breath/demo.gif" width="250" height="250"> | Breath | [View Code](breath) |
+| <img src="china_city_connection/demo.gif" width="250" height="250"> | China City Connection | [View Code](china_city_connection) |
+| <img src="fractal_tree_unfolding/demo.png" width="180" height="320"> | Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
+| <img src="" width="180" height="320"> | Title | [View Code](folder) |
 | ... | ... | ... |
 
 ## About Processing p5.js
