@@ -6,8 +6,8 @@ Welcome to my repository of Processing p5.js artwork! This collection showcases 
 
 | Preview | Title | Link |
 |---------|-------|------|
-| ![Alt text](breath/breath.gif) | Artwork Title 1 | [View Code](breath) |
-| ![Alt text](china-city/china-city.gif) | Artwork Title 2 | [View Code](link/to/file2) |
+| <img src="breath/breath.gif" width="100" height="100"> | Breathe | [View Code](breath) |
+| <img src="china-city/china-city.gif" width="100" height="100"> | China City Connection | [View Code](china-city) |
 | ![Alt text](path/to/image3.gif) | Artwork Title 3 | [View Code](china-city) |
 | ... | ... | ... |
 
