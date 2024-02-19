@@ -6,9 +6,9 @@ Welcome to my repository of Processing p5.js artwork! This collection showcases 
 
 | Preview | Title | Link |
 |---------|-------|------|
-| <img src="breath/demo.gif" width="200" height="200"> | Breathe | [View Code](breath) |
-| <img src="china-city/demo.gif" width="200" height="200"> | China City Connection | [View Code](china_city) |
-| <img src="fractal_tree_unfolding" width="200" height="200"> | Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) |
+| <img src="breath/demo.gif" width="200" height="200"> | Breath | [View Code](breath) |
+| <img src="china_city_connection/demo.gif" width="200" height="200"> | China City Connection | [View Code](china_city_connection) |
+| <img src="fractal_tree_unfolding/demo.png" width="200" height="200"> | Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) |
 | <img src="" width="200" height="200"> | Title | [View Code](folder) |
 | <img src="" width="200" height="200"> | Title | [View Code](folder) |
 | <img src="" width="200" height="200"> | Title | [View Code](folder) |
