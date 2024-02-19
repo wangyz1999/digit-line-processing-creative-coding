@@ -7,7 +7,7 @@ Welcome to my repository of Processing Creative Coding! This collection showcase
 | Preview | Link | Preview | Link |
 |:-------:|------|:-------:|------|
 | <img src="breath/demo.gif" width="180" height="180"><br><b>Breath | [View Code](breath) | <img src="china_city_connection/demo.gif" width="180" height="180"><br><b>China City Connection | [View Code](china_city_connection) |
-| <img src="fractal_tree_unfolding/demo.png" width="180" height="320"> <br><b>Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) | <img src="" width="180" height="320"><br><b>Title | [View Code](folder) |
+| <img src="fractal_tree_unfolding/demo.png" width="180" height="320"> <br><b>Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) | <img src="lorenz_attractor/demo.png" width="180" height="320"><br><b>Lorenz Attractor | [View Code](lorenz_attractor) |
 | <img src="" width="180" height="320"><br><b>Title | [View Code](folder) |<img src="" width="180" height="320"><br><b>Title | [View Code](folder) |
 | ... | ... | ... | ... |
 
