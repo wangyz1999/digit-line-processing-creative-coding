@@ -6,9 +6,19 @@ Welcome to my repository of Processing p5.js artwork! This collection showcases 
 
 | Preview | Title | Link |
 |---------|-------|------|
-| <img src="breath/breath.gif" width="100" height="100"> | Breathe | [View Code](breath) |
-| <img src="china-city/china-city.gif" width="100" height="100"> | China City Connection | [View Code](china-city) |
-| ![Alt text](path/to/image3.gif) | Artwork Title 3 | [View Code](china-city) |
+| <img src="breath/demo.gif" width="200" height="200"> | Breathe | [View Code](breath) |
+| <img src="china-city/demo.gif" width="200" height="200"> | China City Connection | [View Code](china_city) |
+| <img src="fractal_tree_unfolding" width="200" height="200"> | Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
+| <img src="" width="200" height="200"> | Title | [View Code](folder) |
 | ... | ... | ... |
 
 ## About Processing p5.js
