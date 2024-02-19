@@ -1,27 +1,34 @@
-# My Processing p5.js Artwork Collection
+# My Processing Artwork Collection
 
-Welcome to my repository of Processing p5.js artwork! This collection showcases various pieces I've created, demonstrating the capabilities and creative potential of p5.js. Feel free to explore each piece and its code.
+Welcome to my repository of Processing Creative Coding! This collection showcases various pieces I've created. Feel free to explore each piece and its code.
 
 ## Artwork Preview
 
-| Preview | Title | Link | Preview | Title | Link |
-|---------|-------|------|---------|-------|------|
-| <img src="breath/demo.gif" width="180" height="180"> | Breath | [View Code](breath) | <img src="china_city_connection/demo.gif" width="180" height="180"> | China City Connection | [View Code](china_city_connection) |
-| <img src="fractal_tree_unfolding/demo.png" width="180" height="320"> | Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) | <img src="" width="180" height="320"> | Title | [View Code](folder) |
-| <img src="" width="180" height="320"> | Title | [View Code](folder) |<img src="" width="180" height="320"> | Title | [View Code](folder) |
-| ... | ... | ... | ... | ... | ... |
+| Preview | Link | Preview | Link |
+|:-------:|------|:-------:|------|
+| <img src="breath/demo.gif" width="180" height="180"><br><b>Breath | [View Code](breath) | <img src="china_city_connection/demo.gif" width="180" height="180"><br><b>China City Connection | [View Code](china_city_connection) |
+| <img src="fractal_tree_unfolding/demo.png" width="180" height="320"> <br><b>Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) | <img src="" width="180" height="320"><br><b>Title | [View Code](folder) |
+| <img src="" width="180" height="320"><br><b>Title | [View Code](folder) |<img src="" width="180" height="320"><br><b>Title | [View Code](folder) |
+| ... | ... | ... | ... |
 
-## About Processing p5.js
+## About Processing
 
-[Processing p5.js](https://p5js.org/) is a JavaScript library that makes coding accessible for artists, designers, educators, and beginners. It's a reinterpretation of Processing (a language for coding within the context of visual arts) and has a focus on making coding web-compatible.
+[Processing](https://processing.org/) is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. It is developed by artists and designers as a platform for experimentation and is designed for creating interactive programs that produce visual outputs. Processing is based on Java, allowing for powerful and complex interactive designs.
 
 ## How to Run
 
-To run these sketches, you can clone this repository and open the HTML files in a web browser. Alternatively, you can use an online editor like the [p5.js Web Editor](https://editor.p5js.org/) to paste the code and see it in action immediately.
+To run these sketches, you'll need to have the Processing IDE installed on your computer. You can download the Processing IDE from the [official Processing website](https://processing.org/download/). Once installed, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the Processing IDE and select "Open..." from the File menu.
+3. Navigate to the cloned repository folder and open any `.pde` file within the sketch folders.
+4. Press the "Run" button in the IDE to compile and run the sketch.
+
+Alternatively, you can explore and modify these sketches using the [Processing Development Environment (PDE)](https://processing.org/reference/environment/), which provides a straightforward way to work with Processing projects.
 
 ## Contributions
 
-I welcome contributions and suggestions! If you have any ideas or want to contribute to a project, please feel free to open an issue or submit a pull request.
+Contributions, ideas, and suggestions are always welcome! If you're interested in contributing to a project or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## License
 
