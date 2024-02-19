@@ -8,7 +8,7 @@ Welcome to my repository of Processing Creative Coding! This collection showcase
 |:-------:|------|:-------:|------|
 | <img src="breath/demo.gif" width="180" height="180"><br><b>Breath | [View Code](breath) | <img src="china_city_connection/demo.gif" width="180" height="180"><br><b>China City Connection | [View Code](china_city_connection) |
 | <img src="fractal_tree_unfolding/demo.png" width="180" height="320"> <br><b>Fractal Tree Unfolding | [View Code](fractal_tree_unfolding) | <img src="lorenz_attractor/demo.png" width="180" height="320"><br><b>Lorenz Attractor | [View Code](lorenz_attractor) |
-| <img src="" width="180" height="320"><br><b>Title | [View Code](folder) |<img src="" width="180" height="320"><br><b>Title | [View Code](folder) |
+| <img src="dot_in_circle/demo.png" width="180" height="320"><br><b>Dot In Circle | [View Code](dot_in_circle) |<img src="double_pendulum/demo.jpg" width="180" height="320"><br><b>Double Pendulum | [View Code](double_pendulum) |
 | ... | ... | ... | ... |
 
 ## About Processing
