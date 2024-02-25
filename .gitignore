@@ -1,14 +1,12 @@
 *.DS_Store
 
-# ignore all output folder
-**/output
+**/*output*/
 
 *.mp4
-*.png
-*.jpg
-*.jpeg
-*.gif
+*.mp3
+*.wav
 *.svg
 *.pdf
 *.py
+*.autosave
 
